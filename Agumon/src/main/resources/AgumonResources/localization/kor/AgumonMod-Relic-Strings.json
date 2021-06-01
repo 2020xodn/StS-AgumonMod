@@ -1,0 +1,52 @@
+{
+  "Agumon:defaultDigivice": {
+    "NAME": "디지바이스",
+    "FLAVOR": "디지몬과 인간을 연결해주는 매개체.",
+    "DESCRIPTIONS": [
+      "내 턴 시작 시, #yagumon:용기 을 #b2 얻습니다. NL 1막 보스 클리어한 후 전투 시작시 60% 확률로 #y용기의 #y문장을 획득할 수 있습니다."
+    ]
+  },
+  "Agumon:CrestOfCourage": {
+    "NAME": "용기의 문장",
+    "FLAVOR": "죽음을 두려워하지 않는 용기",
+    "DESCRIPTIONS": [
+      "문장이 있으면 완전체 이상으로 진화할 수 있습니다."
+    ]
+  },
+  "Agumon:Ruby": {
+    "NAME": "루비 원석",
+    "FLAVOR": "벼랑 끝에서 주운 루비",
+    "DESCRIPTIONS": [
+      "획득시 #b250 #y골드 를 얻습니다. 매 전투 시작 시 방어도 를 #b4 얻습니다."
+    ]
+  },
+  "Agumon:BlueDragonPower": {
+    "NAME": "청룡몬의 힘",
+    "FLAVOR": "선택받은 아이들을 위해 청룡몬이 힘을 나누어주었습니다.",
+    "DESCRIPTIONS": [
+      "#yagumon:세대 가 성장기이고 엘리트나 보스와 전투중일 때만 우클릭해서 사용할 수 있습니다. 한 번만 궁극체로 진화할 수 있습니다.",
+      "청룡몬의 힘은 이미 사용했습니다."
+    ]
+  },
+  "Agumon:HolyRing": {
+    "NAME": "홀리 링",
+    "FLAVOR": "성스러운 디지몬이 가지고 있던 홀리 링입니다.",
+    "DESCRIPTIONS": [
+      "카드를 #b4 장 사용할 때마다 체력을 #y1 회복합니다."
+    ]
+  },
+  "Agumon:HolyPower": {
+    "NAME": "성스러운 힘",
+    "FLAVOR": "성스러운 디지몬에게서 받은 과거의 힘입니다. 진화 를 거듭할수록 빛이 강해집니다.",
+    "DESCRIPTIONS": [
+      "획득시 #y과거의 #y전쟁을 #b1 장 얻습니다."
+    ]
+  },
+  "Agumon:DramonKiller": {
+    "NAME": "드라몬 킬러",
+    "FLAVOR": "특정 적에게 강하게 반응하는 특이한 무기입니다.",
+    "DESCRIPTIONS": [
+      "엘리트나 보스방이라면 전투 시작 시 #y힘을 #b3 얻습니다."
+    ]
+  }
+}

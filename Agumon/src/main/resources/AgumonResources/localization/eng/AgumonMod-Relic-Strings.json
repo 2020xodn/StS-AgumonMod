@@ -1,0 +1,52 @@
+{
+  "Agumon:defaultDigivice": {
+    "NAME": "Digivice",
+    "FLAVOR": "The medium that connects Digimon and humans.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b2 #yagumon:courage. NL At the start of each combat after clearing the Act 1 boss, there is a 60% chance to obtain the #yCrest #yOf #yCourage."
+    ]
+  },
+  "Agumon:CrestOfCourage": {
+    "NAME": "Crest of Courage",
+    "FLAVOR": "Courage not afraid of death",
+    "DESCRIPTIONS": [
+      "If agumon has Crest, he can digivolve beyond a Ultimate."
+    ]
+  },
+  "Agumon:Ruby": {
+    "NAME": "Ruby Gemstone",
+    "FLAVOR": "Ruby picked up from the edge of a cliff",
+    "DESCRIPTIONS": [
+      "Gain #b250 #yGold. At the start of battle, gain 4 Block."
+    ]
+  },
+  "Agumon:BlueDragonPower": {
+    "NAME": "Power of Qinglongmon",
+    "FLAVOR": "Qinglongmon shared power for The DigiDestined Child",
+    "DESCRIPTIONS": [
+      "You can only use when #yagumon:level is Rookie and battle with Elite or Boss. You can Warp Digivolve to Mega.",
+      "Qinglongmon's power is already used."
+    ]
+  },
+  "Agumon:HolyRing": {
+    "NAME": "Holly Ring",
+    "FLAVOR": "This is the Holy Ring held by the Holy Digimon.",
+    "DESCRIPTIONS": [
+      "Every time you play 4 cards, heal 1 HP."
+    ]
+  },
+  "Agumon:HolyPower": {
+    "NAME": "Holy Power",
+    "FLAVOR": "It is the Power received from the holy Digimon. The light gets stronger as it digivolve.",
+    "DESCRIPTIONS": [
+      "Gain 1 #yWar #yOf #yPast."
+    ]
+  },
+  "Agumon:DramonKiller": {
+    "NAME": "Dramon Killer",
+    "FLAVOR": "It is an unusual weapon that reacts strongly to certain enemies.",
+    "DESCRIPTIONS": [
+      "If you are an elite or boss room, gain #b3 #yStrength at the start of the battle."
+    ]
+  }
+}

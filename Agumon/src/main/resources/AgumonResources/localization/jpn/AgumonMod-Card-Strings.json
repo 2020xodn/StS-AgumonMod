@@ -1,0 +1,334 @@
+{
+  "Agumon:AboutCourage": {
+    "NAME": "勇気不足",
+    "DESCRIPTION": "勇気が足りない..!"
+  },
+  "Agumon:OnlyAgumon": {
+    "NAME": "OnlyAgumon",
+    "DESCRIPTION": "----------------------------Only For Agumon -----------------------------------------"
+  },
+  "Agumon:Agumon_Claw": {
+    "NAME": "ひっかく",
+    "DESCRIPTION": "!D! ダメージを与える。"
+  },
+  "Agumon:Agumon_BabyFlame": {
+    "NAME": "ベビーフレイム",
+    "DESCRIPTION": "agumon:勇気 を2消費する。 NL !D! ダメージと agumon:火傷 !M! を与える。"
+  },
+  "Agumon:Agumon_BabyBurner": {
+    "NAME": "ベビーバーナー",
+    "DESCRIPTION": "agumon:勇気 を3消費する。 NL 敵全体に !D! ダメージと agumon:火傷 !M! を与える。"
+  },
+  "Agumon:Agumon_Defend": {
+    "NAME": "防御",
+    "DESCRIPTION": "!B! ブロック を得る。"
+  },
+  "Agumon:Agumon_FuryClaw": {
+    "NAME": "みだれひっかき",
+    "DESCRIPTION": "敵全体に !D! ダメージを 与える。"
+  },
+  "Agumon:Digivolution": {
+    "NAME": "進化",
+    "DESCRIPTION": " 保留 される。 NL agumon:勇気 を6消費する。アグモンがグレイモンに進化する。",
+    "UPGRADE_DESCRIPTION": "Dummy Data HPが90％以下の場合に使用することができます。最小 HP : "
+  },
+  "Agumon:OnlyGreymon": {
+    "NAME": "OnlyGreymon",
+    "DESCRIPTION": "----------------------------Only For Greymon -----------------------------------------"
+  },
+  "Agumon:Greymon_Claw": {
+    "NAME": "ひっかく",
+    "DESCRIPTION": "!D! ダメージを与える。"
+  },
+  "Agumon:Greymon_MegaFlame": {
+    "NAME": "メガフレイム",
+    "DESCRIPTION": "agumon:勇気 を2消費する。 NL !D! ダメージと agumon:火傷 !M! を与える。"
+  },
+  "Agumon:Greymon_MegaBurst": {
+    "NAME": "メガバースト",
+    "DESCRIPTION": "agumon:勇気 を3消費する。 NL 敵全体に !D! ダメージと agumon:火傷 !M! を与える。"
+  },
+  "Agumon:Greymon_Defend": {
+    "NAME": "防御",
+    "DESCRIPTION": "!B! ブロック を得る。"
+  },
+  "Agumon:Greymon_TailWhip": {
+    "NAME": "しっぽで叩く",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。"
+  },
+  "Agumon:SuperDigivolution": {
+    "NAME": "超進化",
+    "DESCRIPTION": "保留 される。 NL エリートやボスと戦闘中のみ使用可能。 agumon:勇気 を10消費する。グレイモンがメタルグレイモンに超進化する。"
+  },
+
+  "Agumon:OnlyMetalGreymon": {
+    "NAME": "OnlyMetalGreymon",
+    "DESCRIPTION": "----------------------------Only For MetalGreymon -----------------------------------------"
+  },
+  "Agumon:Metalgreymon_Claw": {
+    "NAME": "トライデントアーム",
+    "DESCRIPTION": "!D! ダメージを与える。"
+  },
+  "Agumon:Metalgreymon_Defend": {
+    "NAME": "防御",
+    "DESCRIPTION": "!B! ブロック を得る。"
+  },
+  "Agumon:Metalgreymon_OverFlame": {
+    "NAME": "オーヴァフレイム",
+    "DESCRIPTION": "agumon:勇気 を2消費する。 NL !D! ダメージと agumon:火傷 !M! を与える。"
+  },
+  "Agumon:Metalgreymon_GigaStorm": {
+    "NAME": "ジガストーム",
+    "DESCRIPTION": "agumon:勇気 を3消費する。 NL 敵全体に !D! ダメージと agumon:火傷 !M! を与える。"
+  },
+  "Agumon:Metalgreymon_TailWhip": {
+    "NAME": "しっぽで叩く",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。"
+  },
+  "Agumon:Metalgreymon_GigaDestroyer": {
+    "NAME": "ギガデストロイヤー",
+    "DESCRIPTION": "メタルグレイモン agumon:専用 。 NL !D! ダメージを2回与え、カードを2枚引く。"
+  },
+  "Agumon:UltimateDigivolution": {
+    "NAME": "究極進化",
+    "DESCRIPTION": " 保留 される。 NL エリートやボスと戦闘中のみ使用可能。 agumon:勇気 を10消費する。メタルグレイモンがウォーグレイモンに究極進化します。"
+  },
+
+  "Agumon:OnlyWarGreymon": {
+    "NAME": "OnlyWarGreymon",
+    "DESCRIPTION": "----------------------------Only For WarGreymon -----------------------------------------"
+  },
+  "Agumon:Wargreymon_Claw": {
+    "NAME": "ドラモンキラー",
+    "DESCRIPTION": "!D! ダメージを与える。"
+  },
+  "Agumon:Wargreymon_Defend": {
+    "NAME": "防御",
+    "DESCRIPTION": "!B! ブロック を得る。"
+  },
+  "Agumon:Wargreymon_Gaia1": {
+    "NAME": "ガイアフォース (片手)",
+    "DESCRIPTION": "agumon:勇気 を2消費する。 NL !D! ダメージと agumon:火傷 !M! を与える。"
+  },
+  "Agumon:Wargreymon_Gaia2": {
+    "NAME": "ガイアフォース",
+    "DESCRIPTION": "agumon:勇気 を3消費する。 NL 敵全体に !D! ダメージと agumon:火傷 !M! を与える。"
+  },
+  "Agumon:Wargreymon_BraveTornado": {
+    "NAME": "グレートトルネード",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。"
+  },
+  "Agumon:Wargreymon_BraveShield": {
+    "NAME": "ブレイブシールド",
+    "DESCRIPTION": "ウォーグレイモン agumon:専用 。 NL agumon:勇気 を3消費する。 ターン終了時、攻撃を予定している敵1体ごとに !M! ブロック を得る。"
+  },
+
+  "Agumon:ForEveryAttack": {
+    "NAME": "ForEveryAttack",
+    "DESCRIPTION": "----------------------------For Every Digimon Attack-----------------------------------------"
+  },
+  "Agumon:VitalSpotAttack": {
+    "NAME": "急所攻撃",
+    "DESCRIPTION": "!D! ダメージを与える。 脱カ 1を与える。"
+  },
+  "Agumon:BigExplosion": {
+    "NAME": "大爆発",
+    "DESCRIPTION": "敵全体の agumon:火傷 を2倍にし、 agumon:火傷 1つにつき !D! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "敵全体の agumon:火傷 を3倍にし、 agumon:火傷 1つにつき !D! ダメージを与える。"
+  },
+  "Agumon:BraveAttack": {
+    "NAME": "勇敢な攻撃",
+    "DESCRIPTION": "!D! ダメージを与える。 agumon:勇気 !M! を得る。"
+  },
+  "Agumon:Trample": {
+    "NAME": "ふみつけ",
+    "DESCRIPTION": "agumon:代進 が成熟期以上の時に使用可能。 NL !D! ダメージを与える。敵1体ににつき agumon:勇気 を1得る。 獲得量 : "
+  },
+  "Agumon:BodySlam": {
+    "NAME": "のしかかり",
+    "DESCRIPTION": "agumon:代進 が成熟期以上の時に使用可能。 NL HPを2失う。 !D! ダメージを与え、カードを !M! 枚引く。",
+    "UPGRADE_DESCRIPTION": "agumon:代進 が成熟期以上の時に使用可能。 NL HPを2失う。 !D! ダメージを与え、カードを !M! 枚引く。"
+  },
+  "Agumon:Demilitarization": {
+    "NAME": "非武装化",
+    "DESCRIPTION": " agumon:勇気 を2消費する。 NL !D! ダメージを与える。敵が 筋力 !M! 失う。 NL 廃棄"
+  },
+  "Agumon:HeadButt": {
+    "NAME": "ずつき",
+    "DESCRIPTION": "agumon:勇気 を2消費する。 NL !D! ダメージを与える。敵が攻撃を予定している場合、ダメージが !M! 倍になる。",
+    "UPGRADE_DESCRIPTION": "agumon:勇気 を3消費する。 NL !D! ダメージを与える。敵が攻撃を予定している場合、ダメージが !M! 倍になる。"
+  },
+  "Agumon:FinisherBlow": {
+    "NAME": "仕上げの一撃",
+    "DESCRIPTION": "このターンプレイしたカード枚数ｘ !D! ダメージを与える。ダメージ : ",
+    "UPGRADE_DESCRIPTION": "Dummy Data agumon:勇気 を5消費する。"
+  },
+  "Agumon:OnePointAttack": {
+    "NAME": "一点攻撃",
+    "DESCRIPTION": "!D! ダメージを与える。致命時, カードを !M! 枚引く [E] 得る。。"
+  },
+  "Agumon:WarOfPast": {
+    "NAME": "過去の戦争",
+    "DESCRIPTION": "このゲームで進化した回数だけ !D! ダメージを与える。ダメージ : "
+  },
+  "Agumon:WeaknessPoint": {
+    "NAME": "弱点",
+    "DESCRIPTION": "agumon:勇気 を3消費する。NL !D! ダメージを与える。敵が 弱体 や 脱力 であれば、その数を !M! 増やす。"
+  },
+
+  "Agumon:ForEveryPower": {
+    "NAME": "ForEveryPower",
+    "DESCRIPTION": "----------------------------For Every Digimon Power-----------------------------------------"
+  },
+
+  "Agumon:FriendLeather": {
+    "NAME": "友達の革",
+    "DESCRIPTION": "agumon:勇気 を 3 消費する。 NL 敏捷性 !M! を得る。"
+  },
+  "Agumon:SurprisedParty": {
+    "NAME": "びっくりパーティー",
+    "DESCRIPTION": "回復カードを1枚プレイするたび、 [E] を得る。"
+  },
+  "Agumon:GoodRival": {
+    "NAME": "好敵手",
+    "DESCRIPTION": "この戦闘中、プレイしたカードが20枚以上の場合、 agumon:勇気 7と 筋力 3 を得る。",
+    "UPGRADE_DESCRIPTION": "この戦闘中、プレイしたカードが15枚以上の場合、 agumon:勇気 10と 筋力 6 を得る。"
+  },
+  "Agumon:DataAbsorb": {
+    "NAME": "データ吸収",
+    "DESCRIPTION": "agumon:勇気 を3消費する。 NL 敵にダメージを与えるたびにHPを1回復する。",
+    "UPGRADE_DESCRIPTION": "天賦 。 NL agumon:勇気 を3消費する。 NL 敵にダメージを与えるたびにHPを1回復する。"
+  },
+  "Agumon:BulkUp": {
+    "NAME": "バルク・アップ",
+    "DESCRIPTION": "ゴールドを !M! 失う。最大HP +1。何か起こるかもしれない…"
+  },
+  "Agumon:OverFlowing": {
+    "NAME": "あふれる力",
+    "DESCRIPTION": "最大HPの !M! につき、 筋力 1を得る。獲得量 : "
+  },
+  "Agumon:SignOfEvolution": {
+    "NAME": "進化の徵兆",
+    "DESCRIPTION": "ターン開始時、 agumon:勇気 を1得る。",
+    "UPGRADE_DESCRIPTION": "天賦 。 NL ターン開始時、 agumon:勇気 を得る。"
+  },
+
+  "Agumon:ForEverySkill": {
+    "NAME": "ForEverySkill",
+    "DESCRIPTION": "----------------------------For Every Digimon Skill-----------------------------------------"
+  },
+
+  "Agumon:WeaknessAnalysis": {
+    "NAME": "弱点の分析",
+    "DESCRIPTION": "弱体を !M! 与える。"
+  },
+  "Agumon:Cooperation": {
+    "NAME": "協力",
+    "DESCRIPTION": "カードを1枚引く。 agumon:勇気 を !M! 復る。"
+  },
+  "Agumon:WeirdFace": {
+    "NAME": "変な顔",
+    "DESCRIPTION": "敵の攻撃を !M! 回防ぐ。 廃棄 ",
+    "UPGRADE_DESCRIPTION": "敵の攻撃を !M! 回防ぎます。 廃棄 "
+  },
+  "Agumon:BurgerJack": {
+    "NAME": "バーガー・ジャック",
+    "DESCRIPTION": "HPを !M! 回復する。 廃棄"
+  },
+  "Agumon:EmergencyTool": {
+    "NAME": "緊急ツール",
+    "DESCRIPTION": "agumon:勇気 を5消費する。 NL カードを全て捨てる。カードを !M! 枚引く。 [E] [E] [E] を得る。 廃棄",
+    "UPGRADE_DESCRIPTION": "agumon:勇気 を5消費する。 NL カードを全て捨てる。カードを!M!枚引く。 [E] [E] [E] [E] を得る。 廃棄",
+    "EXTENDED_DESCRIPTION": [
+      "HPが25％以下の場合、"
+    ]
+  },
+  "Agumon:CrampedWay": {
+    "NAME": "窮屈な道",
+    "DESCRIPTION": "agumon:勇気 を4消費する。 NL 敵が1体のみの場合、 筋力を !M! 得て、カードを1枚引く。",
+    "UPGRADE_DESCRIPTION": "agumon:勇気 を4消費する。 NL 敵が1体のみの場合、 筋力を !M! 得て、カードを1枚引く。"
+  },
+  "Agumon:ReadyCamping": {
+    "NAME": "キャンプの準備",
+    "DESCRIPTION": "カードを !M! 枚引き, 1枚捨てる。"
+  },
+  "Agumon:PhysicalShock": {
+    "NAME": "物理的な衝撃",
+    "DESCRIPTION": "HPを2失う。自分のすべてのデバフを取り除き、 agumon:勇気 !M! を得る。"
+  },
+  "Agumon:Pressure": {
+    "NAME": "プレッシャー",
+    "DESCRIPTION": "agumon:代進 が完全体以上の時に使用可能。 NL agumon:勇気 !M! を得る。 敵全体に 脱力 と 弱体 を !M! 与える。 廃棄 ",
+    "UPGRADE_DESCRIPTION": "agumon:代進 が完全体以上の時に使用可能。 NL agumon:勇気 !M! を得る。 敵全体に 脱力 と 弱体 を !M! 与える。"
+  },
+  "Agumon:PostureCorrection": {
+    "NAME": "姿勢を正す",
+    "DESCRIPTION": "!B! ブロック を得る。このターンに攻撃カードをプレイした場合、カードを !M! 枚引く。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。このターンに攻撃カードをプレイした場合、カードを !M! 枚引く。"
+  },
+  "Agumon:InheritDragon": {
+    "NAME": "龍の力を継ぐ者",
+    "DESCRIPTION": "すべての agumon:勇気 を失い、ターン終了時まで失った分だけ 筋力 を得る。獲得量 : "
+  },
+  "Agumon:Devolution": {
+    "NAME": "退化",
+    "DESCRIPTION": "保留 される。 NL 一 agumon:代進 退化する。すべての agumon:勇気 を失い、HPを20％回復する。NL 廃棄 回復量 : ",
+    "UPGRADE_DESCRIPTION": "保留 される。 NL 一 agumon:代進 退化する。すべての agumon:勇気 を失い、HPを40％回復する。NL 廃棄 回復量 : "
+  },
+  "Agumon:DigiEgg": {
+    "NAME": "デジーエグ 化",
+    "DESCRIPTION": "agumon:代進 が完全体以上の時に使用可能。 NL 成長期まで退化して、HPを30％回復する。このバトルで遭遇した敵1体につき最大HPが !M! 増加する。増加量 : "
+  },
+  "Agumon:RewardingBreak": {
+    "NAME": "有意義な休息",
+    "DESCRIPTION": "保有している agumon:勇気 の値の半分だけHPを回復し、カードを1枚引く。 廃棄 NL 回復量 : ",
+    "UPGRADE_DESCRIPTION": "保有している agumon:勇気 に等しい値HPを回復し、カードを1枚引く。 廃棄 NL 回復量 : "
+  },
+  "Agumon:Crisis": {
+    "NAME": "危機",
+    "DESCRIPTION": "敵のHPよりも自分のHPが少ない場合、その差の10％回復する。 廃棄 NL 獲得量 : ",
+    "UPGRADE_DESCRIPTION": "天賦 。 NL 敵のHPよりも自分のHPが少ない場合、その差の10％回復する。 廃棄 NL 獲得量 : "
+  },
+  "Agumon:Telecommunication": {
+    "NAME": "テレコミュニケーション",
+    "DESCRIPTION": "山札からカードを1枚引く。このターン、そのカードのコストが1減少する。",
+    "UPGRADE_DESCRIPTION": "山札からカードを2枚引く。このターン、そのカードのコストが1減少する。",
+    "EXTENDED_DESCRIPTION": [
+      "手札に加えるカードを1枚選択してください。"
+    ]
+  },
+  "Agumon:HelpingHand": {
+    "NAME": "救いの手",
+    "DESCRIPTION": "agumon:勇気 を3消費する。 NL [E] を得て、カードを1枚捨てる。",
+    "UPGRADE_DESCRIPTION": "agumon:勇気 を3消費する。 NL [E] [E] を得て、カードを1枚捨てる。"
+  },
+  "Agumon:FrontalDefend": {
+    "NAME": "正面防御",
+    "DESCRIPTION": "agumon:代進 が成熟期以上の時に使用可能。 NL !B! ブロック を得る。敵が攻撃を予定している時、 agumon:勇気 を!M! 得る。"
+  },
+  "Agumon:DataScan": {
+    "NAME": "データー・スキャン",
+    "DESCRIPTION": "カードを1枚 廃棄 する。そのカードのコストの3倍に相当する agumon:勇気 を得る。",
+    "UPGRADE_DESCRIPTION": "カードを1枚 廃棄 する。そのカードのコストの5倍に相当する agumon:勇気 を得る。",
+    "EXTENDED_DESCRIPTION": [
+      "廃棄するカードを1枚選択してください"
+    ]
+  },
+  "Agumon:IntotheStorm": {
+    "NAME": "嵐の中",
+    "DESCRIPTION": "使用不可 。 このカードが捨てたとき、 agumon:勇気 を3得て、HPを3回復する。",
+    "EXTENDED_DESCRIPTION": [
+      "このカードは使用できない。"
+    ]
+  },
+  "Agumon:Chase": {
+    "NAME": "追撃",
+    "DESCRIPTION": "agumon:勇気 を3消費する。 NL [E] を得る。 廃棄",
+    "UPGRADE_DESCRIPTION": "agumon:勇気 を3消費する。 NL [E] を得る。"
+  },
+  "Agumon:LastHope": {
+    "NAME": "最後の希望",
+    "DESCRIPTION": "山札にカードがない時だけプレイ可能。 agumon:勇気 !M! を得る。",
+    "UPGRADE_DESCRIPTION": "まだ希望はある"
+  }
+}

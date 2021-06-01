@@ -1,0 +1,52 @@
+{
+  "Agumon:defaultDigivice": {
+    "NAME": "数码暴龙机",
+    "FLAVOR": "数码兽和人类的连接媒介",
+    "DESCRIPTIONS": [
+      "在你的回合开始时, 获得  #b2点 #yagumon:勇气 。 NL 完成一个阶段Boss后在你的回合开始时，以60%的概率获得 #y勇气徽章 。"
+    ]
+  },
+  "Agumon:CrestOfCourage": {
+    "NAME": "勇气徽章",
+    "FLAVOR": "不怕困难，勇于面对一切挑战。",
+    "DESCRIPTIONS": [
+      "有徽章可以进化成完全体。"
+    ]
+  },
+  "Agumon:Ruby": {
+    "NAME": "红宝石原石",
+    "FLAVOR": "悬崖边上捡到的红宝石",
+    "DESCRIPTIONS": [
+      "拾起时，获得 #b300 #y金币 。在每场战斗开始时，获得 #b4 点 格挡 。"
+    ]
+  },
+  "Agumon:BlueDragonPower": {
+    "NAME": "青龙兽的力量",
+    "FLAVOR": "青龙兽为位被选召的孩子们分发了力量。",
+    "DESCRIPTIONS": [
+      "#yagumon:世代 可以在成长期、精英或老板战中右击使用。 只能 #yagumon:进化 为究极体一次。",
+      "已经使用了青龙兽的力量。"
+    ]
+  },
+  "Agumon:HolyRing": {
+    "NAME": "神圣环",
+    "FLAVOR": "神圣的数码兽贝手中的神圣环。",
+    "DESCRIPTIONS": [
+      "你每打出 #b4 张牌，回复 #y1 生命。"
+    ]
+  },
+  "Agumon:HolyPower": {
+    "NAME": "神圣的力量",
+    "FLAVOR": "这是从神圣的数码兽贝身上得到的过去的力量。越是不断进化, 光线就越强。",
+    "DESCRIPTIONS": [
+      "拾起时，获得 #y过去的战争 #b一张。"
+    ]
+  },
+  "Agumon:DramonKiller": {
+    "NAME": "恐龙克星",
+    "FLAVOR": "对特定敌人强烈反应的特殊武器。",
+    "DESCRIPTIONS": [
+      "在精英或Boss战开始时，会得到 #b3 的 #y力量 。"
+    ]
+  }
+}

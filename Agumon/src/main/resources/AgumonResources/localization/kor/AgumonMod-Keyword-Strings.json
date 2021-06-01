@@ -1,0 +1,43 @@
+[
+  {
+    "NAMES": [
+      "용기"
+    ],
+    "DESCRIPTION": "용기를 사용해 강력한 행동을 할 수 있습니다. 용기가 부족한 경우 해당 카드의 비용이 0이 되며 용기를 1(2) 얻는 효과를 냅니다. 공격하지 않더라도 공격 카드는 공격 카드로 취급됩니다."
+  },
+  {
+    "NAMES": [
+      "화상"
+    ],
+    "DESCRIPTION": "적은 매턴 불타올라 최대 체력의 10%의 데미지를 받습니다."
+  },
+  {
+    "NAMES": [
+      "진화"
+    ],
+    "DESCRIPTION": "디지몬이 한 세대 진화해 더욱 강해집니다. 모든 타격과 수비, 특정 카드가 진화합니다. 완전체 이상으로 진화하려면 문장이 필요합니다."
+  },
+  {
+    "NAMES": [
+      "세대"
+    ],
+    "DESCRIPTION": "디지몬의 진화 단계. 성장기 - 성숙기 - 완전체 - 궁극체 순서이다."
+  },
+  {
+    "NAMES": [
+      "전용카드"
+    ],
+    "DESCRIPTION": "앞에 명시된 디지몬만 사용할 수 있는 카드. 진화 시 뽑을 카드 더미에 생성되며 퇴화시 사라진다."
+  },
+  {
+    "PROPER_NAME": "Multiword Keyword",
+    "NAMES": [
+      "Multiword Keyword",
+      "multiword_keyword",
+      "multiword_keywords",
+      "multikey",
+      "multikeyword"
+    ],
+    "DESCRIPTION": "Make sure the first element in the NAMES is the same as your PROPER_NAME. The rest is to match keywords like the single word keyword."
+  }
+]

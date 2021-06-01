@@ -1,0 +1,59 @@
+{
+  "Agumon": {
+    "TEXT": [
+      "Agumon uses special cost",
+      "that called Courage",
+      "",
+
+      "If you don't have enough courage,",
+      "that card costs 0 and",
+      "effect become gain 1(2) Courage.",
+      "If the card is a exhaust card,",
+      "it does not exhaust in this case.",
+
+      "Courage can be gained ",
+      "from Digivice (starter relic)",
+      "and these cards.",
+
+      "This is Agumon's start cards.",
+      "Rookie is very weak",
+      "than other characters.",
+
+      "If you digivolve by consume Courage,",
+      "starter cards and specific cards",
+      "also evolve and becomes stronger",
+      "If you upgraded card,",
+      "evolved card will be also upgrade.",
+      "",
+
+      "If you click card on your deck,",
+      "You can preview the cards",
+      "that will evolve.",
+
+      "These are cards that can evolve.",
+      "Baby Flame is starter card,",
+      "but you can gain it on card reward.",
+
+      "To digivolve beyond ultimate, ",
+      "you need Crest Of Courage.",
+      "At the start of each combat ",
+      "after clearing the Act 1 boss, ",
+      "there is a 60% chance to obtain it",
+
+      "The more you digivolve,",
+      "the more your MAX HP increases.",
+      "Increasing MAX HP by evolving ",
+      "before combat with Elite or Boss",
+      "will be essential.",
+      "After clear Boss combat,",
+      "you will devolve to Rookie.",
+      "Increased HP will be also reduces."
+    ],
+    "LABEL": [
+      "Agumon Mod Tutorial",
+      "Next",
+      "Prev",
+      "Skip"
+    ]
+  }
+}

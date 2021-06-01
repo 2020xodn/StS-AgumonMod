@@ -1,0 +1,104 @@
+
+AgumonAnimation.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+burning_agumon
+  rotate: false
+  xy: 503, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+burning_greymon
+  rotate: false
+  xy: 1, 1005
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+evolve_greymon
+  rotate: false
+  xy: 503, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+agumon_body
+  rotate: false
+  xy: 503, 1461
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+agumon_head
+  rotate: false
+  xy: 503, 1309
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+agumon_leftarm
+  rotate: false
+  xy: 503, 1005
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+agumon_leftleg
+  rotate: false
+  xy: 503, 1765
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+agumon_rightleg
+  rotate: false
+  xy: 503, 1613
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+agumon_rightarm
+  rotate: false
+  xy: 503, 1157
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+evolve_agumon
+  rotate: false
+  xy: 1507, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+evolve_metalgreymon
+  rotate: false
+  xy: 1005, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+burning_metalgreymon
+  rotate: false
+  xy: 1, 1507
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Wargreymon
+  rotate: false
+  xy: 1, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Wargreymon_burning
+  rotate: false
+  xy: 1, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+GreymonAnimation.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+greymon_left_leg
+  rotate: false
+  xy: 1107, 503
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+greymon_body
+  rotate: false
+  xy: 805, 503
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+greymon_head
+  rotate: false
+  xy: 1507, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+greymon_right_leg
+  rotate: false
+  xy: 1507, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+greymon_tail
+  rotate: false
+  xy: 503, 503
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+evolve_burning
+  rotate: false
+  xy: 1, 1005
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+evolve_agumon
+  rotate: false
+  xy: 503, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+evolve_greymon
+  rotate: false
+  xy: 1, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+evolve_metalgreymon
+  rotate: false
+  xy: 1, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+devolve_burning
+  rotate: false
+  xy: 1005, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+greymon_burning
+  rotate: false
+  xy: 1, 1507
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

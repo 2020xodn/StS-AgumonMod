@@ -1,0 +1,50 @@
+{
+"Agumon:couragePower": {
+        "NAME": "勇气",
+        "DESCRIPTIONS": ["亚古兽可以使用勇气做有力的行动.（最大值 20）"]
+},
+"Agumon:burnPower": {
+        "NAME": "烧伤",
+        "DESCRIPTIONS": ["在每回合开始时失去最大生命值的10％。精英或Boss将受到一半的损失。损失量 : #b"]
+},
+"Agumon:mirrorPower": {
+        "NAME": "神奇的矿石",
+        "DESCRIPTIONS": ["敌人攻击奇怪的地方。"]
+},
+"Agumon:surprisedPower": {
+        "NAME": "派对",
+        "DESCRIPTIONS": ["每当打出恢复体力的卡片时， ", "[E] "]
+},
+"Agumon:goodRivalPower": {
+        "NAME": "好对手",
+        "DESCRIPTIONS": ["多交 ", "张牌的话, 获得","点勇气和", "点力量。", "いい勝負だ"]
+},
+"Agumon:dataAbsorbPower": {
+        "NAME": "数据吸收",
+        "DESCRIPTIONS": ["每次给敌人带来伤害的时候, 回复 #b1 生命。"]
+},
+"Agumon:evolvePower": {
+        "NAME": "世大",
+        "DESCRIPTIONS": ["[#ff0000]成长期[] - 成熟期 - 完全体 - 究极体",
+                "成长期 - [#ff0000]成熟期[] - 完全体 - 究极体",
+                "成长期 - 成熟期 - [#ff0000]完全体[] - 究极体",
+                "成长期 - 成熟期 - 完全体 - [#ff0000]究极体[]",
+                "ERROR !"]
+},
+"Agumon:darkPower": {
+        "NAME": "黑暗能量",
+        "DESCRIPTIONS": ["[#ff0000]???[]"]
+},
+"Agumon:braveShieldPower": {
+        "NAME": "自动拦截",
+        "DESCRIPTIONS": [
+                "在每回合结束时, 获得 #b",
+                " 点 格挡 等于有意攻击的敌人数量。"
+        ]
+},
+"Agumon:signPower": {
+        "NAME": "迹象",
+        "DESCRIPTIONS": ["在你的回合开始时，获得 #b1 点勇气。"
+        ]
+}
+}

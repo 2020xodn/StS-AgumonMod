@@ -1,0 +1,72 @@
+{
+        "Agumon:couragePower": {
+                "NAME": "勇気",
+                "DESCRIPTIONS": [
+                        "アグモンは勇気を出して敵と戦います。(最大値 20)"
+                ]
+        },
+        "Agumon:burnPower": {
+                "NAME": "火傷",
+                "DESCRIPTIONS": [
+                        "モンスターは毎ターン開始時燃え上がり、 最大体力の10％のダメージを受けます。 エリートやボスは半分のダメージを受けます。 ダメージ : #b"
+                ]
+        },
+        "Agumon:mirrorPower": {
+                "NAME": "不思議な鉱石",
+                "DESCRIPTIONS": [
+                        "敵が変なところを攻撃します。"
+                ]
+        },
+        "Agumon:surprisedPower": {
+                "NAME": "パーティー",
+                "DESCRIPTIONS": [
+                        "回復カードを #b1 枚プレイするたび ",
+                        "[E] "
+                ]
+        },
+        "Agumon:goodRivalPower": {
+                "NAME": "好敵手",
+                "DESCRIPTIONS": [
+                        "カードを #b",
+                        "枚プレイしたら、 勇気を #b",
+                        " 得て、 筋力 を #b",
+                        " を得る。",
+                        "いい勝負だ"
+                ]
+        },
+        "Agumon:dataAbsorbPower": {
+                "NAME": "データ吸収",
+                "DESCRIPTIONS": [
+                        "敵にダメージを与えるたびにHPを #b1 回復する。"
+                ]
+        },
+        "Agumon:evolvePower": {
+                "NAME": "代進",
+                "DESCRIPTIONS": [
+                        "[#ff0000]成長期[] - 成熟期 - 完全体 - 究極体",
+                        "成長期 - [#ff0000]成熟期[] - 完全体 - 究極体",
+                        "成長期 - 成熟期 - [#ff0000]完全体[] - 究極体",
+                        "成長期 - 成熟期 - 完全体 - [#ff0000]究極体[]",
+                        "ERROR !"
+                ]
+        },
+        "Agumon:darkPower": {
+                "NAME": "暗黒エネルギー",
+                "DESCRIPTIONS": [
+                        "[#ff0000]???[]"
+                ]
+        },
+        "Agumon:braveShieldPower": {
+                "NAME": "自動迎撃",
+                "DESCRIPTIONS": [
+                        "ターン終了時、攻撃を予定している敵一匹ごとに #b",
+                        " ブロック を得る。"
+                ]
+        },
+        "Agumon:signPower": {
+                "NAME": "徵兆",
+                "DESCRIPTIONS": [
+                        "ターン開始時、 勇気 を #b1 復する。"
+                ]
+        }
+}

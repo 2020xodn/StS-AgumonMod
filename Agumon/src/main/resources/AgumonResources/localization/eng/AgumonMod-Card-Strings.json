@@ -1,0 +1,326 @@
+{
+  "Agumon:AboutCourage": {
+    "NAME": "Not Enough Courage",
+    "DESCRIPTION": "Not enough courage..!"
+  },
+  "Agumon:OnlyAgumon": {
+    "NAME": "OnlyAgumon",
+    "DESCRIPTION": "----------------------------Only For Agumon -----------------------------------------"
+  },
+  "Agumon:Agumon_Claw": {
+    "NAME": "Claw",
+    "DESCRIPTION": "Deal !D! damage. "
+  },
+  "Agumon:Agumon_BabyFlame": {
+    "NAME": "Baby Flame",
+    "DESCRIPTION": "Consumes 2 agumon:courage. Deal !D! damage. Apply !M! agumon:burn."
+  },
+  "Agumon:Agumon_BabyBurner": {
+    "NAME": "Baby Burner",
+    "DESCRIPTION": "Consumes 3 agumon:courage. Deal !D! damage to ALL enemies. Apply !M! agumon:burn to ALL enemies."
+  },
+  "Agumon:Agumon_Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "Agumon:Agumon_FuryClaw": {
+    "NAME": "Fury Claw",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies."
+  },
+  "Agumon:Digivolution": {
+    "NAME": "Digivolution",
+    "DESCRIPTION": "Retain. NL Consumes 6 agumon:courage. Agumon agumon:digivolve into Greymon.",
+    "UPGRADE_DESCRIPTION": "Dummy Data Can be used when the HP is less than 90%. At least HP : "
+  },
+
+  "Agumon:OnlyGreymon": {
+    "NAME": "OnlyGreymon",
+    "DESCRIPTION": "----------------------------Only For Greymon -----------------------------------------"
+  },
+  "Agumon:Greymon_Claw": {
+    "NAME": "Claw",
+    "DESCRIPTION": "Deal !D! damage. "
+  },
+  "Agumon:Greymon_MegaFlame": {
+    "NAME": "Mega Flame",
+    "DESCRIPTION": "Consumes 2 agumon:courage. Deal !D! damage. Apply !M! agumon:burn."
+  },
+  "Agumon:Greymon_MegaBurst": {
+    "NAME": "Mega Burst",
+    "DESCRIPTION": "Consumes 3 agumon:courage. Deal !D! damage to ALL enemies. Apply !M! agumon:burn to ALL enemies."
+  },
+  "Agumon:Greymon_Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "Agumon:Greymon_TailWhip": {
+    "NAME": "Tail Whip",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies."
+  },
+  "Agumon:SuperDigivolution": {
+    "NAME": "Super Digivolution",
+    "DESCRIPTION": "Retain. NL Can only be used while fighting an elite or boss. Consumes 10 agumon:courage. Greymon Super agumon:digivolve into Metalgreymon."
+  },
+
+  "Agumon:OnlyMetalGreymon": {
+    "NAME": "OnlyMetalGreymon",
+    "DESCRIPTION": "----------------------------Only For MetalGreymon -----------------------------------------"
+  },
+  "Agumon:Metalgreymon_Claw": {
+    "NAME": "Trident Arm",
+    "DESCRIPTION": "Deal !D! damage. "
+  },
+  "Agumon:Metalgreymon_Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "Agumon:Metalgreymon_OverFlame": {
+    "NAME": "Over Flame",
+    "DESCRIPTION": "Consumes 2 agumon:courage. Deal !D! damage. Apply !M! agumon:burn."
+  },
+  "Agumon:Metalgreymon_GigaStorm": {
+    "NAME": "Giga Storm",
+    "DESCRIPTION": "Consumes 3 agumon:courage. Deal !D! damage to ALL enemies. Apply !M! agumon:burn to ALL enemies."
+  },
+  "Agumon:Metalgreymon_TailWhip": {
+    "NAME": "Tail Whip",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies."
+  },
+  "Agumon:Metalgreymon_GigaDestroyer": {
+    "NAME": "Giga Destroyer",
+    "DESCRIPTION": "Metalgreymon agumon:only. Deal !D! twice, draw 2 cards."
+  },
+  "Agumon:UltimateDigivolution": {
+    "NAME": "Ultimate Digivolution",
+    "DESCRIPTION": "Retain. NL Can only be used while fighting an elite or boss. Consumes 10 agumon:courage. Metalgreymon Ultimate agumon:digivolve into Wargreymon."
+  },
+
+  "Agumon:OnlyWarGreymon": {
+    "NAME": "OnlyWarGreymon",
+    "DESCRIPTION": "----------------------------Only For WarGreymon -----------------------------------------"
+  },
+  "Agumon:Wargreymon_Claw": {
+    "NAME": "Mega Claw",
+    "DESCRIPTION": "Deal !D! damage. "
+  },
+  "Agumon:Wargreymon_Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "Agumon:Wargreymon_Gaia1": {
+    "NAME": "Gaia Force(One Hand)",
+    "DESCRIPTION": "Consumes 2 agumon:courage. Deal !D! damage. Apply !M! agumon:burn."
+  },
+  "Agumon:Wargreymon_Gaia2": {
+    "NAME": "Gaia Force",
+    "DESCRIPTION": "Consumes 3 agumon:courage. Deal !D! damage to ALL enemies. Apply !M! agumon:burn to ALL enemies."
+  },
+  "Agumon:Wargreymon_BraveTornado": {
+    "NAME": "Brave Tornado",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies."
+  },
+  "Agumon:Wargreymon_BraveShield": {
+    "NAME": "Brave Shield",
+    "DESCRIPTION": "Wargreymon agumon:only. Consumes 3 agumon:courage. At the end of your turn, for each enemy with intent to attack gain !M! block."
+  },
+
+  "Agumon:ForEveryAttack": {
+    "NAME": "ForEveryAttack",
+    "DESCRIPTION": "----------------------------For Every Digimon Attack-----------------------------------------"
+  },
+  "Agumon:VitalSpotAttack": {
+    "NAME": "Vital Spot Attack",
+    "DESCRIPTION": "Deal !D! damage. Apply !M! Weak."
+  },
+  "Agumon:BigExplosion": {
+    "NAME": "Big Explosion",
+    "DESCRIPTION": "Double ALL enemy agumon:burn. Deal !D! damage per agumon:burn to ALL enemy.",
+    "UPGRADE_DESCRIPTION": "Triple ALL enemy agumon:burn. Deal !D! damage per agumon:burn to ALL enemy."
+  },
+  "Agumon:BraveAttack": {
+    "NAME": "Brave Attack",
+    "DESCRIPTION": "Deal !D! damage. Gain !M! agumon:courage."
+  },
+  "Agumon:Trample": {
+    "NAME": "Trample",
+    "DESCRIPTION": "Can be used when agumon:level is above Champion. Deal !D! damage, Gain !M! agumon:courage per monster in this room. Total : "
+  },
+  "Agumon:BodySlam": {
+    "NAME": "Body Slam",
+    "DESCRIPTION": "Can be used when agumon:level is above Champion. Lose 2 HP. Deal !D! damage. Draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Can be used when agumon:level is above Champion. Lose 2 HP. Deal !D! damage. Draw !M! cards."
+  },
+  "Agumon:Demilitarization": {
+    "NAME": "Demilitarization",
+    "DESCRIPTION": "Consumes 2 agumon:courage. Deal !D! damage. Enemy lose !M! Strength. NL Exhaust"
+  },
+  "Agumon:HeadButt": {
+    "NAME": "Headbutt",
+    "DESCRIPTION": "Consumes 2 agumon:courage. Deal !D! damage. If the enemy intends to attack, it doubles the damage.",
+    "UPGRADE_DESCRIPTION": "Consumes 3 agumon:courage. Deal !D! damage. If the enemy intends to attack, it triples the damage."
+  },
+  "Agumon:FinisherBlow": {
+    "NAME": "Finisher Blow",
+    "DESCRIPTION": "Deal !D! damage for each cards played this turn. Total : ",
+    "UPGRADE_DESCRIPTION": "Dummy Data Consumes 2 agumon:courage. "
+  },
+  "Agumon:OnePointAttack": {
+    "NAME": "One Point Attack",
+    "DESCRIPTION": "Deal !D! damage. If this kills a monster, draw !M! cards and gain [E] ."
+  },
+  "Agumon:WarOfPast": {
+    "NAME": "War of Past",
+    "DESCRIPTION": "Deal !D! damage the number of times Agumon digivolved in this game. Total : "
+  },
+  "Agumon:WeaknessPoint": {
+    "NAME": "Weakness Point",
+    "DESCRIPTION": "Consumes 3 agumon:courage. Deal !D! damage. If enemy has Weak or Vulnerable, increase it !M!."
+  },
+
+  "Agumon:ForEveryPower": {
+    "NAME": "ForEveryPower",
+    "DESCRIPTION": "----------------------------For Every Digimon Power-----------------------------------------"
+  },
+
+  "Agumon:FriendLeather": {
+    "NAME": "Friend's Leather",
+    "DESCRIPTION": "Consumes 3 agumon:courage. Gain !M! Dexterity."
+  },
+  "Agumon:SurprisedParty": {
+    "NAME": "Surprised party",
+    "DESCRIPTION": "For each time you play a card that restores HP, gain [E] ."
+  },
+  "Agumon:GoodRival": {
+    "NAME": "Good Rival",
+    "DESCRIPTION": "If you play 20 or more cards in this battle, gain 7 agumon:courage and gain 3 Strength.",
+    "UPGRADE_DESCRIPTION": "If you play 15 or more cards in this battle, gain 10 agumon:courage and gain 6 Strength."
+  },
+  "Agumon:DataAbsorb": {
+    "NAME": "Absorb Data",
+    "DESCRIPTION": "Consumes 3 agumon:courage. Whenever you attack, heal 1 HP.",
+    "UPGRADE_DESCRIPTION": "Innate. Consumes 3 agumon:courage. Whenever you attack, heal 1 HP."
+  },
+  "Agumon:BulkUp": {
+    "NAME": "Bulk up",
+    "DESCRIPTION": "Lose !M! Gold. Gain 1 permanent MAX HP. [#ff0000] Something mights happen...[]"
+  },
+  "Agumon:OverFlowing": {
+    "NAME": "Over Flowing",
+    "DESCRIPTION": "Gain 1 Strength per !M! MAX HP. Gain : "
+  },
+  "Agumon:SignOfEvolution": {
+    "NAME": "Sign of Evolution",
+    "DESCRIPTION": "At the start of your turn, gain 1 agumon:courage.",
+    "UPGRADE_DESCRIPTION": "Innate. At the start of your turn, gain 1 agumon:courage."
+  },
+
+  "Agumon:ForEverySkill": {
+    "NAME": "ForEverySkill",
+    "DESCRIPTION": "----------------------------For Every Digimon Skill-----------------------------------------"
+  },
+  "Agumon:WeaknessAnalysis": {
+    "NAME": "Weakness Analysis",
+    "DESCRIPTION": "Apply !M! Vulnerable."
+  },
+  "Agumon:Cooperation": {
+    "NAME": "Cooperation",
+    "DESCRIPTION": "Draw 1 card, gain !M! agumon:courage."
+  },
+  "Agumon:WeirdFace": {
+    "NAME": "Weird Face",
+    "DESCRIPTION": "Protect enemy attacks !M! time. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Protect enemy attacks !M! times. NL Exhaust."
+  },
+  "Agumon:BurgerJack": {
+    "NAME": "Burger Jack",
+    "DESCRIPTION": "Heal !M! HP. NL Exhaust."
+  },
+  "Agumon:EmergencyTool": {
+    "NAME": "Emergency Tool",
+    "DESCRIPTION": "Consumes 5 agumon:courage. Discards ALL cards. Draw !M! cards, gain [E] [E] [E] NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Consumes 5 agumon:courage. Discards ALL cards. Draw !M! cards, gain [E] [E] [E] [E] NL Exhaust.",
+    "EXTENDED_DESCRIPTION": ["If HP is 25% or less 25%, you can play this card. "]
+  },
+  "Agumon:CrampedWay": {
+    "NAME": "Cramped Way",
+    "DESCRIPTION": "Consumes 4 agumon:courage. If there is only one enemy, gain !M! Strength and draw 1 card.",
+    "UPGRADE_DESCRIPTION": "Consumes 4 agumon:courage. If there is only one enemy, gain !M! Strength and draw 1 cards."
+  },
+  "Agumon:ReadyCamping": {
+    "NAME": "Ready for Camping",
+    "DESCRIPTION": "Draw !M! cards, discard 1 card."
+  },
+  "Agumon:PhysicalShock": {
+    "NAME": "Physical Shock",
+    "DESCRIPTION": "Lose 2 HP. Remove ALL debuffs for player. Gain !M! agumon:courage."
+  },
+  "Agumon:Pressure": {
+    "NAME": "Pressure",
+    "DESCRIPTION": "Can be used when agumon:level is above Ultimate. Gain 3 agumon:courage, apply !M! Weak and Vulnerable to ALL enemies. NL exhaust",
+    "UPGRADE_DESCRIPTION": "Can be used when agumon:level is above Ultimate. Gain 3 agumon:courage, apply !M! Weak and Vulnerable to ALL enemies."
+  },
+  "Agumon:PostureCorrection": {
+    "NAME": "Posture Correction",
+    "DESCRIPTION": "Gain !B! Block. If you played an Attack, draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. If you played an Attack, draw !M! cards."
+  },
+  "Agumon:InheritDragon": {
+    "NAME": "Inherit Dragon",
+    "DESCRIPTION": "Lose ALL agumon:courage. For this turn, as much strength as the lost agumon:courage gain Strength. Amount : "
+  },
+  "Agumon:Devolution": {
+    "NAME": "Devolution",
+    "DESCRIPTION": "Retain. NL Devolution 1 agumon:level. Lost ALL agumon:courage, heal 20% of MAX HP. NL Exhaust Heal : ",
+    "UPGRADE_DESCRIPTION": "Retain. NL Devolution 1 agumon:level. Lost ALL agumon:courage, heal 40% of MAX HP. NL Exhaust Heal : "
+  },
+  "Agumon:DigiEgg": {
+    "NAME": "Digi Egg",
+    "DESCRIPTION": "Can be used when agumon:level is above Ultimate. Devolve to Rookie heal 30% of MAX hp. Gain !M! permenant MAX HP per each monster in this battle. Amount : "
+  },
+  "Agumon:RewardingBreak": {
+    "NAME": "Rewarding Break",
+    "DESCRIPTION": "Heal hp for 50% of agumon:courage you have. Draw 1 card. NL Exhaust NL Heal : ",
+    "UPGRADE_DESCRIPTION": "Heal hp for 100% of agumon:courage you have. Draw 1 card. NL Exhaust NL Heal : "
+  },
+  "Agumon:Crisis": {
+    "NAME": "Crisis",
+    "DESCRIPTION": "If your HP is less than enemy, heal by 10% of the difference. NL Exhaust Amount : ",
+    "UPGRADE_DESCRIPTION": "Innate. If your HP is less than enemy, heal by 10% of the difference. NL Exhaust Amount : "
+  },
+  "Agumon:Telecommunication": {
+    "NAME": "Telecommunication",
+    "DESCRIPTION": "Choose a card from your draw pile and place it into your hand. Its cost is reduced by 1 during this turn.",
+    "UPGRADE_DESCRIPTION": "Choose two cards from your draw pile and place it into your hand. Its cost is reduced by 1 during this turn.",
+    "EXTENDED_DESCRIPTION": ["Choose one card to place it into your hand"]
+  },
+  "Agumon:HelpingHand": {
+    "NAME": "Helping Hand",
+    "DESCRIPTION": "Consume 3 agumon:courage. Gain [E] . Discard 1 card.",
+    "UPGRADE_DESCRIPTION": "Consume 3 agumon:courage. Gain [E] [E] . Discard 1 card."
+  },
+  "Agumon:FrontalDefend": {
+    "NAME": "Frontal Defend",
+    "DESCRIPTION": "Can be used when agumon:level is above Champion. Gain !B! Block. If the enemy intends to attack, gain !M! agumon:courage."
+  },
+  "Agumon:DataScan": {
+    "NAME": "Data Scan",
+    "DESCRIPTION": "Exhaust 1 card. Gain agumon:courage for 3 times the cost of that card.",
+    "UPGRADE_DESCRIPTION": "Exhaust 1 card. Gain agumon:courage for 5 times the cost of that card.",
+    "EXTENDED_DESCRIPTION": ["Choose 1 card you want to exhaust."]
+  },
+  "Agumon:IntotheStorm": {
+    "NAME": "Into The Storm",
+    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain 3 agumon:courage and heal !M! HP.",
+    "EXTENDED_DESCRIPTION": ["This card cannot be used."]
+  },
+  "Agumon:Chase": {
+    "NAME": "Chase",
+    "DESCRIPTION": "Consume 3 agumon:courage. Gain [E] . NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Consume 3 agumon:courage. Gain [E] ."
+  },
+  "Agumon:LastHope": {
+    "NAME": "Last Hope",
+    "DESCRIPTION": "Can only be played if there are no cards in your draw pile. Gain !M! agumon:courage .",
+    "UPGRADE_DESCRIPTION": "I still have hope"
+  }
+}

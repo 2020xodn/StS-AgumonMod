@@ -1,0 +1,50 @@
+{
+"Agumon:couragePower": {
+        "NAME": "용기",
+        "DESCRIPTIONS": ["아구몬은 용기를 내어 적과 싸웁니다. (최대치 20)"]
+},
+"Agumon:burnPower": {
+        "NAME": "화상",
+        "DESCRIPTIONS": ["적은 매턴 시작 시 최대 체력의 10% 데미지를 받습니다. 엘리트나 보스는 절반의 피해를 받습니다. 피해량 : #b"]
+},
+"Agumon:mirrorPower": {
+        "NAME": "신기한 광석",
+        "DESCRIPTIONS": ["적이 이상한 곳을 공격합니다."]
+},
+"Agumon:surprisedPower": {
+        "NAME": "파티",
+        "DESCRIPTIONS": ["체력 회복 카드를 낼 때마다 ", "[E] "]
+},
+"Agumon:goodRivalPower": {
+        "NAME": "호적수",
+        "DESCRIPTIONS": ["카드를 ", "장 더 내면, 용기를 "," 얻고 힘을 ", " 얻습니다.", "좋은 승부군"]
+},
+"Agumon:dataAbsorbPower": {
+        "NAME": "데이터 흡수",
+        "DESCRIPTIONS": ["피해를 줄 때마다 체력을 #b1 회복합니다."]
+},
+"Agumon:evolvePower": {
+        "NAME": "세대",
+        "DESCRIPTIONS": ["[#ff0000]성장기[] - 성숙기 - 완전체 - 궁극체",
+                "성장기 - [#ff0000]성숙기[] - 완전체 - 궁극체",
+                "성장기 - 성숙기 - [#ff0000]완전체[] - 궁극체",
+                "성장기 - 성숙기 - 완전체 - [#ff0000]궁극체[]",
+                "ERROR !"]
+},
+"Agumon:darkPower": {
+        "NAME": "암흑 에너지",
+        "DESCRIPTIONS": ["[#ff0000]???[]"]
+},
+"Agumon:braveShieldPower": {
+        "NAME": "자동 요격",
+        "DESCRIPTIONS": [
+                "턴 종료 시 공격 의도를 가진 적 하나당 방어도 를 #b",
+                " 얻습니다."
+        ]
+},
+"Agumon:signPower": {
+        "NAME": "징조",
+        "DESCRIPTIONS": ["매턴 시작 시 용기를 #b1 추가로 얻습니다."
+        ]
+}
+}

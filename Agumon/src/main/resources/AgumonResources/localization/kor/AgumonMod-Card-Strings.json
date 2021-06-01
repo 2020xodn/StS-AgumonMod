@@ -1,0 +1,331 @@
+{
+  "Agumon:AboutCourage": {
+    "NAME": "용기 부족",
+    "DESCRIPTION": "용기가 부족해..!"
+  },
+  "Agumon:OnlyAgumon": {
+    "NAME": "OnlyAgumon",
+    "DESCRIPTION": "----------------------------Only For Agumon -----------------------------------------"
+  },
+  "Agumon:Agumon_Claw": {
+    "NAME": "할퀴기",
+    "DESCRIPTION": "피해를 !D! 줍니다. "
+  },
+  "Agumon:Agumon_BabyFlame": {
+    "NAME": "꼬마 불꽃",
+    "DESCRIPTION": "agumon:용기 를 2 소모합니다. 피해를 !D! 주고 적에게 agumon:화상 을 !M! 만큼 적용합니다."
+  },
+  "Agumon:Agumon_BabyBurner": {
+    "NAME": "베이비 버너",
+    "DESCRIPTION": "agumon:용기 를 3 소모합니다. 적 전체에게 피해를 !D! 주고 agumon:화상 을 !M! 만큼 적용합니다."
+  },
+  "Agumon:Agumon_Defend": {
+    "NAME": "수비",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다."
+  },
+  "Agumon:Agumon_FuryClaw": {
+    "NAME": "마구 할퀴기",
+    "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다."
+  },
+  "Agumon:Digivolution": {
+    "NAME": "진화",
+    "DESCRIPTION": "보존. NL agumon:용기 를 6 소모합니다. 아구몬이 그레이몬으로 agumon:진화 합니다."
+  },
+
+  "Agumon:OnlyGreymon": {
+    "NAME": "OnlyGreymon",
+    "DESCRIPTION": "----------------------------Only For Greymon -----------------------------------------"
+  },
+  "Agumon:Greymon_Claw": {
+    "NAME": "할퀴기",
+    "DESCRIPTION": "피해를 !D! 줍니다."
+  },
+  "Agumon:Greymon_MegaFlame": {
+    "NAME": "메가 파이어",
+    "DESCRIPTION": "agumon:용기 를 2 소모합니다. 피해를 !D! 주고 적에게 agumon:화상 을 !M! 만큼 적용합니다."
+  },
+  "Agumon:Greymon_MegaBurst": {
+    "NAME": "메가 버스트",
+    "DESCRIPTION": "agumon:용기 를 3 소모합니다. 적 전체에게 피해를 !D! 주고 agumon:화상 을 !M! 만큼 적용합니다."
+  },
+  "Agumon:Greymon_Defend": {
+    "NAME": "수비",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다."
+  },
+  "Agumon:Greymon_TailWhip": {
+    "NAME": "꼬리 휘두르기",
+    "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다."
+  },
+  "Agumon:SuperDigivolution": {
+    "NAME": "초진화",
+    "DESCRIPTION": "보존. NL 엘리트나 보스와 싸우고 있을 때만 사용할 수 있습니다. agumon:용기 를 10 소모합니다. 그레이몬이 메탈그레이몬으로 초 agumon:진화 합니다."
+  },
+
+  "Agumon:OnlyMetalGreymon": {
+    "NAME": "OnlyMetalGreymon",
+    "DESCRIPTION": "----------------------------Only For MetalGreymon -----------------------------------------"
+  },
+  "Agumon:Metalgreymon_Claw": {
+    "NAME": "트라이던트 암",
+    "DESCRIPTION": "피해를 !D! 줍니다."
+  },
+  "Agumon:Metalgreymon_Defend": {
+    "NAME": "수비",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다."
+  },
+  "Agumon:Metalgreymon_OverFlame": {
+    "NAME": "오버 프레임",
+    "DESCRIPTION": "agumon:용기 를 2 소모합니다. 피해를 !D! 주고 적에게 agumon:화상 을 !M! 만큼 적용합니다."
+  },
+  "Agumon:Metalgreymon_GigaStorm": {
+    "NAME": "지가 스톰",
+    "DESCRIPTION": "agumon:용기 를 3 소모합니다. 적 전체에게 피해를 !D! 주고 agumon:화상 을 !M! 만큼 적용합니다."
+  },
+  "Agumon:Metalgreymon_TailWhip": {
+    "NAME": "꼬리 휘두르기",
+    "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다."
+  },
+  "Agumon:Metalgreymon_GigaDestroyer": {
+    "NAME": "인공지능 미사일",
+    "DESCRIPTION": "메탈그레이몬 agumon:전용카드. 피해를 !D! 만큼 2번 주고 카드를 2장 뽑습니다."
+  },
+  "Agumon:UltimateDigivolution": {
+    "NAME": "궁극 진화",
+    "DESCRIPTION": "보존. NL 엘리트나 보스와 싸우고 있을 때만 사용할 수 있습니다. agumon:용기 를 10 소모합니다. 메탈그레이몬이 워그레이몬으로 궁극 agumon:진화 합니다."
+  },
+
+  "Agumon:OnlyWarGreymon": {
+    "NAME": "OnlyWarGreymon",
+    "DESCRIPTION": "----------------------------Only For WarGreymon -----------------------------------------"
+  },
+  "Agumon:Wargreymon_Claw": {
+    "NAME": "왕발톱",
+    "DESCRIPTION": "피해를 !D! 줍니다."
+  },
+  "Agumon:Wargreymon_Defend": {
+    "NAME": "수비",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다."
+  },
+  "Agumon:Wargreymon_Gaia1": {
+    "NAME": "테라 광선 (한손)",
+    "DESCRIPTION": "agumon:용기 를 2 소모합니다. 피해를 !D! 주고 적에게 agumon:화상 을 !M! 만큼 적용합니다."
+  },
+  "Agumon:Wargreymon_Gaia2": {
+    "NAME": "테라 광선",
+    "DESCRIPTION": "agumon:용기 를 3 소모합니다. 적 전체에게 피해를 !D! 주고 agumon:화상 을 !M! 만큼 적용합니다."
+  },
+  "Agumon:Wargreymon_BraveTornado": {
+    "NAME": "테라 회오리",
+    "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다."
+  },
+  "Agumon:Wargreymon_BraveShield": {
+    "NAME": "브레이브 실드",
+    "DESCRIPTION": "워그레이몬 agumon:전용카드. agumon:용기 3을 소모합니다. 턴 종료 시 공격 의도를 가진 적 하나당 방어도 를 !M! 얻습니다."
+  },
+
+  "Agumon:ForEveryAttack": {
+    "NAME": "ForEveryAttack",
+    "DESCRIPTION": "----------------------------For Every Digimon Attack-----------------------------------------"
+  },
+  "Agumon:VitalSpotAttack": {
+    "NAME": "급소 공격",
+    "DESCRIPTION": "적 하나에게 피해를 !D! 주고 약화 를 !M! 부여합니다."
+  },
+  "Agumon:BigExplosion": {
+    "NAME": "대폭발",
+    "DESCRIPTION": "모든 적의 agumon:화상 을 2배로 하고 보유하고 있는 agumon:화상 하나당 !M! 의 피해를 줍니다.",
+    "UPGRADE_DESCRIPTION": "모든 적의 agumon:화상 을 3배로 하고 보유하고 있는 agumon:화상 하나당 !M! 의 피해를 줍니다."
+  },
+  "Agumon:BraveAttack": {
+    "NAME": "용감한 공격",
+    "DESCRIPTION": "적 하나에게 피해를 !D! 주고 agumon:용기 를 !M! 얻습니다."
+  },
+  "Agumon:Trample": {
+    "NAME": "짓밟기",
+    "DESCRIPTION": "agumon:세대 가 성숙기 이상일 때 사용할 수 있습니다. 적 하나에게 피해를 !D! 주고 적 하나당 agumon:용기 를 !M! 얻습니다. 획득량 : "
+  },
+  "Agumon:BodySlam": {
+    "NAME": "누르기",
+    "DESCRIPTION": "agumon:세대 가 성숙기 이상일 때 사용할 수 있습니다. 체력을 2 잃습니다. 적 하나에게 피해를 !D! 주고 카드를 !M! 장 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "agumon:세대 가 성숙기 이상일 때 사용할 수 있습니다. 체력을 2 잃습니다. 적 하나에게 피해를 !D! 주고 카드를 !M! 장 뽑습니다."
+  },
+  "Agumon:Demilitarization": {
+    "NAME": "비무장화",
+    "DESCRIPTION": "agumon:용기 를 2 소모합니다. 적 하나에게 피해를 !D! 주고 힘 을 !M! 낮춥니다. NL 소멸"
+  },
+  "Agumon:HeadButt": {
+    "NAME": "박치기",
+    "DESCRIPTION": "agumon:용기 를 2 소모합니다. 적 하나에게 피해를 !D! 줍니다. 적이 공격할 의도가 있다면 데미지를 !M! 배로 줍니다.",
+    "UPGRADE_DESCRIPTION": "agumon:용기 를 3 소모합니다. 적 하나에게 피해를 !D! 줍니다. 적이 공격할 의도가 있다면 데미지를 !M! 배로 줍니다."
+  },
+  "Agumon:FinisherBlow": {
+    "NAME": "마무리 일격",
+    "DESCRIPTION": "이번 턴에 사용한 카드 당 !D! 의 피해 를 줍니다. 피해량 : ",
+    "UPGRADE_DESCRIPTION": "Dummy Data agumon:용기 를 5 소모합니다. "
+  },
+  "Agumon:OnePointAttack": {
+    "NAME": "한점 공격",
+    "DESCRIPTION": "적 하나에게 !D! 의 피해를 줍니다. 이 공격으로 적을 처치했을 경우 카드 !M! 장을 뽑고 [E] 를 얻습니다."
+  },
+  "Agumon:WarOfPast": {
+    "NAME": "과거의 전쟁",
+    "DESCRIPTION": "이 게임에서 agumon:진화 했던 횟수만큼 적 하나에게 !D! 의 피해를 줍니다. 피해량 : "
+  },
+  "Agumon:WeaknessPoint": {
+    "NAME": "약점",
+    "DESCRIPTION": "agumon:용기 를 3 소모합니다. 적 하나에게 피해를 !D! 주고 적이 약화 나 취약 상태라면 그 수치를 !M! 늘립니다."
+  },
+
+  "Agumon:ForEveryPower": {
+    "NAME": "ForEveryPower",
+    "DESCRIPTION": "----------------------------For Every Digimon Power-----------------------------------------"
+  },
+
+  "Agumon:FriendLeather": {
+    "NAME": "친구의 가죽",
+    "DESCRIPTION": "agumon:용기 를 3 소모하고 민첩 을 !M! 얻습니다."
+  },
+  "Agumon:SurprisedParty": {
+    "NAME": "깜짝 파티",
+    "DESCRIPTION": "체력을 회복하는 카드를 낼 때마다 [E] 를 얻습니다."
+  },
+  "Agumon:GoodRival": {
+    "NAME": "호적수",
+    "DESCRIPTION": "이 전투에서 사용한 카드가 20장 이상일 경우, agumon:용기 를 7 얻고 힘 을 3 얻습니다.",
+    "UPGRADE_DESCRIPTION": "이 전투에서 사용한 카드가 20장 이상일 경우, agumon:용기 를 10 얻고 힘 을 6 얻습니다."
+  },
+  "Agumon:DataAbsorb": {
+    "NAME": "데이터 흡수",
+    "DESCRIPTION": "agumon:용기 를 3 소모합니다. 적에게 피해를 줄 때마다 체력을 1 회복합니다.",
+    "UPGRADE_DESCRIPTION": "선천성. NL agumon:용기 를 3 소모합니다. 적에게 피해를 줄 때마다 체력을 1 회복합니다."
+  },
+  "Agumon:BulkUp": {
+    "NAME": "벌크업",
+    "DESCRIPTION": "골드를 !M! 잃습니다. 영구적으로 최대 체력이 1 증가합니다. [#ff0000]무슨 [#ff0000]일[]이 생길지도 모릅니다..."
+  },
+  "Agumon:OverFlowing": {
+    "NAME": "넘쳐나는 힘",
+    "DESCRIPTION": "최대 체력 !M! 당 힘을 1 얻습니다. 획득량 : "
+  },
+  "Agumon:SignOfEvolution": {
+    "NAME": "진화의 징조",
+    "DESCRIPTION": "매 턴 시작 시 agumon:용기 를 1 얻습니다.",
+    "UPGRADE_DESCRIPTION": "선천성. NL 매 턴 시작 시 agumon:용기 를 1 얻습니다."
+  },
+
+  "Agumon:ForEverySkill": {
+    "NAME": "ForEverySkill",
+    "DESCRIPTION": "----------------------------For Every Digimon Skill-----------------------------------------"
+  },
+
+  "Agumon:WeaknessAnalysis": {
+    "NAME": "약점 분석",
+    "DESCRIPTION": "적 하나에게 취약 을 !M! 부여합니다."
+  },
+  "Agumon:Cooperation": {
+    "NAME": "협력",
+    "DESCRIPTION": "카드를 1 장 뽑고 agumon:용기 를 !M! 얻습니다. "
+  },
+  "Agumon:WeirdFace": {
+    "NAME": "이상한 얼굴",
+    "DESCRIPTION": "적의 공격을 !M! 회 막아줍니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "적의 공격을 !M! 회 막아줍니다. NL 소멸"
+  },
+  "Agumon:BurgerJack": {
+    "NAME": "버거 잭",
+    "DESCRIPTION": "체력을 !M! 회복합니다. NL 소멸"
+  },
+  "Agumon:EmergencyTool": {
+    "NAME": "긴급 도구",
+    "DESCRIPTION": "agumon:용기 를 5 소모합니다. 카드를 전부 버립니다. 카드를 !M! 장 뽑고 [E] [E] [E] 를 얻습니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "agumon:용기 를 5 소모합니다. 카드를 전부 버립니다. 카드를 !M! 장 뽑고 [E] [E] [E] [E] 를 얻습니다. NL 소멸",
+    "EXTENDED_DESCRIPTION": ["Dummy Data"]
+  },
+  "Agumon:CrampedWay": {
+    "NAME": "비좁은 길",
+    "DESCRIPTION": "agumon:용기 를 4 소모합니다. 적이 하나만 존재할 경우 힘을 !M! 얻고 카드를 1장 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "agumon:용기 를 4 소모합니다. 적이 하나만 존재할 경우 힘을 !M! 얻고 카드를 1장 뽑습니다."
+  },
+  "Agumon:ReadyCamping": {
+    "NAME": "캠핑 준비",
+    "DESCRIPTION": "카드를 !M! 장 뽑고 1장 버립니다."
+  },
+  "Agumon:PhysicalShock": {
+    "NAME": "물리적 충격",
+    "DESCRIPTION": "피해를 2 입습니다. 자신에게 부여된 모든 해로운 효과를 제거하고 agumon:용기 를 !M! 얻습니다."
+  },
+  "Agumon:Pressure": {
+    "NAME": "위압",
+    "DESCRIPTION": "agumon:세대 가 완전체 이상일 때 사용할 수 있습니다. agumon:용기 를 3 얻고 모든 적에게 약화와 취약을 !M! 부여합니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "agumon:세대 가 완전체 이상일 때 사용할 수 있습니다. agumon:용기 를 3 얻고 모든 적에게 약화와 취약 !M! 부여합니다."
+  },
+  "Agumon:PostureCorrection": {
+    "NAME": "자세 잡기",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. 이번 턴에 공격 카드를 사용했다면 카드를 !M! 장 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "방어도 를 !B! 얻습니다. 이번 턴에 공격 카드를 사용했다면 카드를 !M! 장 뽑습니다."
+  },
+  "Agumon:InheritDragon": {
+    "NAME": "용의 힘을 잇는 자",
+    "DESCRIPTION": "모든 agumon:용기 를 잃고 이번 턴 동안 그 만큼의 힘을 얻습니다. 획득량 : "
+  },
+  "Agumon:Devolution": {
+    "NAME": "퇴화",
+    "DESCRIPTION": "보존. NL 한 agumon:세대 퇴화합니다. 모든 agumon:용기 를 잃고 체력을 20% 회복합니다. NL 소멸 회복량 : ",
+    "UPGRADE_DESCRIPTION": "보존. NL 한 agumon:세대 퇴화합니다. 모든 agumon:용기 를 잃고 체력을 40% 회복합니다. NL 소멸 회복량 : "
+  },
+  "Agumon:DigiEgg": {
+    "NAME": "디지에그화",
+    "DESCRIPTION": "agumon:세대 가 완전체 이상일 때 사용할 수 있습니다. 성장기까지 퇴화하고 체력을 30% 회복합니다. 이번 배틀에서 조우한 적 하나당 최대 체력이 !M! 증가합니다. 증가량 : "
+  },
+  "Agumon:RewardingBreak": {
+    "NAME": "보람찬 휴식",
+    "DESCRIPTION": "보유하고 있는 agumon:용기 수치의 50% 만큼 체력을 회복하고 카드를 1장 뽑습니다. 소멸 NL 회복량 : ",
+    "UPGRADE_DESCRIPTION": "보유하고 있는 agumon:용기 수치의 100% 만큼 체력을 회복하고 카드를 1장 뽑습니다. 소멸 NL 회복량 : "
+  },
+  "Agumon:Crisis": {
+    "NAME": "위기",
+    "DESCRIPTION": "적의 체력보다 자신의 체력이 적을 경우 그 차이의 10% 만큼 회복합니다. NL 소멸 획득량 : ",
+    "UPGRADE_DESCRIPTION": "선천성. 적의 체력보다 자신의 체력이 적을 경우 그 차이의 10% 만큼 회복합니다. NL 소멸 획득량 : "
+  },
+  "Agumon:Telecommunication": {
+    "NAME": "원거리 통신",
+    "DESCRIPTION": "뽑을 카드 더미에서 카드를 한 장 가져옵니다. 이번 턴동안 그 카드의 비용은 1 줄어듭니다.",
+    "UPGRADE_DESCRIPTION": "뽑을 카드 더미에서 카드를 두 장 가져옵니다. 이번 턴동안 그 카드의 비용은 1 줄어듭니다.",
+    "EXTENDED_DESCRIPTION": ["가져올 카드를 한 장 선택하십시오"]
+  },
+  "Agumon:HelpingHand": {
+    "NAME": "도움의 손길",
+    "DESCRIPTION": "agumon:용기 를 3 소모하고 [E] 를 얻습니다. 카드를 1장 버립니다.",
+    "UPGRADE_DESCRIPTION": "agumon:용기 를 3 소모하고 [E] [E] 를 얻습니다. 카드를 1장 버립니다."
+  },
+  "Agumon:FrontalDefend": {
+    "NAME": "정면 방어",
+    "DESCRIPTION": "agumon:세대 가 성숙기 이상일 때 사용할 수 있습니다. 방어도를 !B! 얻습니다. 적이 공격할 의도가 있다면 agumon:용기 를 !M! 얻습니다."
+  },
+  "Agumon:DataScan": {
+    "NAME": "데이터 스캔",
+    "DESCRIPTION": "카드를 1장 소멸 시킵니다. 그 카드의 비용의 3배 만큼 agumon:용기 를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "카드를 1장 소멸 시킵니다. 그 카드의 비용의 5배 만큼 agumon:용기 를 얻습니다.",
+    "EXTENDED_DESCRIPTION": ["소멸시킬 카드를 한 장 선택하십시오"]
+  },
+  "Agumon:IntotheStorm": {
+    "NAME": "폭풍 속으로",
+    "DESCRIPTION": "사용불가. 이 카드가 버려지면 agumon:용기 를 3 얻고 체력을 !M! 회복합니다.",
+    "EXTENDED_DESCRIPTION": ["이 카드는 사용할 수 없어"]
+  },
+  "Agumon:Chase": {
+    "NAME": "추격",
+    "DESCRIPTION": "agumon:용기 를 3 소모하고 [E] 를 얻습니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "agumon:용기 를 3 소모하고 [E] 를 얻습니다."
+  },
+  "Agumon:LastHope": {
+    "NAME": "마지막 희망",
+    "DESCRIPTION": "뽑을 카드 더미에 남아있는 카드가 없을 때만 사용이 가능합니다. agumon:용기 를 !M! 얻습니다.",
+    "UPGRADE_DESCRIPTION": "아직 희망은 있어"
+  },
+  "Agumon:TestCourage": {
+    "NAME": "용기 테스트",
+    "DESCRIPTION": "용기 20을 얻는다",
+    "UPGRADE_DESCRIPTION": "용기 20을 얻는다"
+  }
+}

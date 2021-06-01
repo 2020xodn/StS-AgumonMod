@@ -1,0 +1,83 @@
+
+WargreymonAnimation.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wargreymon_rightArm
+  rotate: false
+  xy: 503, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Wargreymon_leftLeg
+  rotate: false
+  xy: 1, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Wargreymon_rightLeg
+  rotate: false
+  xy: 503, 1507
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Wargreymon_body
+  rotate: false
+  xy: 1005, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Wargreymon_rightNail
+  rotate: false
+  xy: 1, 1507
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Metalgreymon
+  rotate: false
+  xy: 1507, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Metalgreymon_burning
+  rotate: false
+  xy: 1005, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Wargreymon_burning
+  rotate: false
+  xy: 1, 1005
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Wargreymon
+  rotate: false
+  xy: 503, 1005
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Agumon
+  rotate: false
+  xy: 1, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Agumon_burning
+  rotate: false
+  xy: 503, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

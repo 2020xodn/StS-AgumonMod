@@ -1,0 +1,50 @@
+{
+"Agumon:couragePower": {
+        "NAME": "Courage",
+        "DESCRIPTIONS": ["Agumon takes courage to fight the enemy. (max 20)"]
+},
+"Agumon:burnPower": {
+        "NAME": "Burn",
+        "DESCRIPTIONS": ["At the Start of Enemy's turn, Enemy lost 10% of MAX HP and #yBurn is reduce by 1. Elites and bosses take half of damage. Damage : #b"]
+},
+"Agumon:mirrorPower": {
+        "NAME": "Mysterious ore",
+        "DESCRIPTIONS": ["Enemies attack strange places."]
+},
+"Agumon:surprisedPower": {
+        "NAME": "Party",
+        "DESCRIPTIONS": ["Whenever you play card about heal, ", "[E] "]
+},
+"Agumon:goodRivalPower": {
+        "NAME": "Rival",
+        "DESCRIPTIONS": ["If you play ", "more card, gain "," courage and gain ", " Strength.", "It's a good rival."]
+},
+"Agumon:dataAbsorbPower": {
+        "NAME": "Absorb Data",
+        "DESCRIPTIONS": ["Whenever you attack, heal #b1 HP"]
+},
+"Agumon:evolvePower": {
+        "NAME": "Level",
+        "DESCRIPTIONS": ["[#ff0000]Rookie[] - Champion - Ultimate - Mega",
+                "Rookie - [#ff0000]Champion[] - Ultimate - Mega",
+                "Rookie - Champion - [#ff0000]Ultimate[] - Mega",
+                "Rookie - Champion - Ultimate - [#ff0000]Mega[]",
+                "ERROR !"]
+},
+"Agumon:darkPower": {
+        "NAME": "Dark Energy",
+        "DESCRIPTIONS": ["[#ff0000]???[]"]
+},
+"Agumon:braveShieldPower": {
+        "NAME": "Automatic Intercept",
+        "DESCRIPTIONS": [
+                "At the end of turn, per monster that intends to attack gain #b",
+                " Block."
+        ]
+},
+"Agumon:signPower": {
+        "NAME": "Sign",
+        "DESCRIPTIONS": ["At the start of your turn, gain #b1 additional #yCourage."
+        ]
+}
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "NAMES": [
+      "courage"
+    ],
+    "DESCRIPTION": "You can do powerful actions to use courage. Even attack cards do not attack, it is treated as an attack card. If you don't have enough Courage, the card will costs 0 and effect becomes 'Gain 1(2) of the Courage'."
+  },
+  {
+    "NAMES": [
+      "burn"
+    ],
+    "DESCRIPTION": "At the end of turn, Enemy lost 10% of MAX HP and #yBurn is reduce by 1"
+  },
+  {
+    "NAMES": [
+      "digivolve"
+    ],
+    "DESCRIPTION": "Digimon gets stronger and stronger through digivolution. Crest is required to digivolve beyond Champion."
+  },
+  {
+    "NAMES": [
+      "level"
+    ],
+    "DESCRIPTION": "Evolutionary stage of Digimon. The order is Rookie - Champion - Ultimate - Mega."
+  },
+  {
+    "NAMES": [
+      "only"
+    ],
+    "DESCRIPTION": "A card that can only be used by Digimon written on the front. It's created in Deck when you digivolve and disappears when you devolve."
+  }
+]

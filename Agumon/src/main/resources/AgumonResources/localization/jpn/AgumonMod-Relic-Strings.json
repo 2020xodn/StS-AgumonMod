@@ -1,0 +1,52 @@
+{
+  "Agumon:defaultDigivice": {
+    "NAME": "デジヴァイス",
+    "FLAVOR": "デジモンと人間をつなぐ媒介.",
+    "DESCRIPTIONS": [
+      "ターン開始時、 #yagumon:勇気 #b2 を得る。 NL 1幕のボスクリアした後の戦闘の開始時に60％の確率で、勇気の紋章を獲得できる。"
+    ]
+  },
+  "Agumon:CrestOfCourage": {
+    "NAME": "勇気の紋章",
+    "FLAVOR": "死を恐れていない勇気",
+    "DESCRIPTIONS": [
+      "紋章があれば完全体以上に進化できる。"
+    ]
+  },
+  "Agumon:Ruby": {
+    "NAME": "ルビーの原石",
+    "FLAVOR": "崖っぷちで拾ったルビー",
+    "DESCRIPTIONS": [
+      "獲得時、 #b250 #yゴールド を得る。戦闘開始時に #b4 #yブロック を得る。"
+    ]
+  },
+  "Agumon:BlueDragonPower": {
+    "NAME": "チンロンモンの力",
+    "FLAVOR": "選ばれし子供達 のためにチンロンモンが力を分けてくれました。",
+    "DESCRIPTIONS": [
+      "#yagumon:代進 が成長期であり、エリートやボスとの戦闘中にのみ右クリックして使用することができます。一度だけ究極体に進化できる。",
+      "チンロンモンの力は、すでに使用された。"
+    ]
+  },
+  "Agumon:HolyRing": {
+    "NAME": "ホリー・リング",
+    "FLAVOR": "聖なるデジモンが持っていたホリーリングです。",
+    "DESCRIPTIONS": [
+      "#b4 枚のカードをプレイするたび、HPを #y1 回復する。"
+    ]
+  },
+  "Agumon:HolyPower": {
+    "NAME": "聖なる力",
+    "FLAVOR": "聖なるデジモンから受け取った過去の力です。進化 を重ねるごとに光が強くなります。",
+    "DESCRIPTIONS": [
+      "獲得時, #y過去の戦争 を得る。"
+    ]
+  },
+  "Agumon:DramonKiller": {
+    "NAME": "ドラモンキラー",
+    "FLAVOR": "特定の敵に強く反応する特異な武器です。",
+    "DESCRIPTIONS": [
+      "エリートやボス部屋との戦闘時、戦闘開始時に#y筋力を＃b3取得します。"
+    ]
+  }
+}

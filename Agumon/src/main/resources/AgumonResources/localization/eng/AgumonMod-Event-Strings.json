@@ -1,0 +1,41 @@
+{
+  "Agumon:HolyRuinEvent": {
+    "NAME": "Holy Ruin",
+    "DESCRIPTIONS": [
+      "While wandering, You found a holy ruins. NL Light comes out as you touch the ruins. NL NL #yThe #ylight points beyond the mountains in the distance.",
+      "Upon arriving at the other ruins, the holy Digimon appeared. NL He recalls the past and tries to give you #ypower.",
+      "Received #ysomething from which a divine light radiates out.",
+      "I've decided to ignore it and continue on my path."
+    ],
+    "OPTIONS": [
+      "[Follow] The road is tough. #rLose #r",
+      " #rHP",
+      "[Leave]",
+      "[Agree] Gain #yHoly #yPower.",
+      "[Disagree] Picks up the #b", " #yGold from the side and leaves."
+    ]
+  },
+  "Agumon:PalmTreeEvent": {
+    "NAME": "Palm Tree",
+    "DESCRIPTIONS": [
+      "You found a palm tree by the river. NL You think you can drop the palm fruit.",
+      "So hungry.....",
+      "You took the fruit and shared it with friends.",
+      "The tree is starting to break. What should we do? NL NL 1. Fire flames toward the ground. NL 2. Digivolve and get out of trouble. NL 3. Jump into the river to ease the shock.",
+      "We've safely overcome the crisis."
+    ],
+    "OPTIONS": [
+      "[Swing] #gHeal #b",
+      " #gHP with a 50% chance.",
+      "[Starve] #rLose #r",
+      " #rHP.",
+      "[Leave]",
+      "[Attack] #rLose #r: ",
+      "[Locked] Requires : Attack Card",
+      "[Digivolve] #rLose #r: ",
+      "[Locked] Requires : Power Card",
+      "[Jump] #rLose #r: ",
+      "[Locked] Requires : Skill Card"
+    ]
+  }
+}

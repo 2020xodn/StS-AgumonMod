@@ -1,0 +1,90 @@
+
+MetalGreymonAnimation.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+left_arm
+  rotate: false
+  xy: 1, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+evolve_greymon
+  rotate: false
+  xy: 503, 1507
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+evolve_burning
+  rotate: false
+  xy: 1005, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1005, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 1, 1005
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 1507
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+devolve_burning
+  rotate: false
+  xy: 503, 1005
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+evolve_metalgreymon
+  rotate: false
+  xy: 503, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Wargreymon
+  rotate: false
+  xy: 1, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Wargreymon_burning
+  rotate: false
+  xy: 503, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Agumon
+  rotate: false
+  xy: 1507, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Agumon_burning
+  rotate: false
+  xy: 1507, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
