@@ -16,8 +16,8 @@ import com.megacrit.cardcrawl.ui.FtueTip;
 
 import java.util.ArrayList;
 
-import static Agumon.AgumonMod.*;
-import static Agumon.util.TutorialSkipButton.*;
+import static Agumon.AgumonMod.logger;
+import static Agumon.AgumonMod.makeTutorialPath;
 
 public class AgumonTutorial extends FtueTip {
     private static final TutorialStrings tutorialStrings = CardCrawlGame.languagePack.getTutorialString("Agumon");
@@ -67,7 +67,7 @@ public class AgumonTutorial extends FtueTip {
     @Override
     public void update() {
         if (AbstractDungeon.overlayMenu.cancelButton.hb.hovered && InputHelper.justClickedLeft || CInputActionSet.cancel.isJustPressed()){
-//            logger.info("튜토리얼 | 이전 누름 !! 페이지 : " + (this.PAGE - 1));
+//            logger.info("Tutorial | Next Button !! Page : " + (this.PAGE + 1));
             if (this.previousPage && this.PAGE > 1)  // if Double Click
                 this.PAGE--;
 
@@ -80,7 +80,7 @@ public class AgumonTutorial extends FtueTip {
 
         skipButton.update();
         if (InputHelper.justClickedLeft && skipButton.hb.hovered) {     // Skip Button
-//            logger.info("스킵 버튼 위에 있어 !");
+//            logger.info("It's On Skip Button !");
             CardCrawlGame.sound.play("UI_HOVER");
 
             logger.info("AgumonTutorial | Tutorial Finish by skip");
@@ -92,7 +92,7 @@ public class AgumonTutorial extends FtueTip {
         }
 
         if (AbstractDungeon.overlayMenu.proceedButton.isHovered && InputHelper.justClickedLeft || CInputActionSet.proceed.isJustPressed()) {
-//            logger.info("튜토리얼 | 다음 누름 !! 페이지 : " + (this.PAGE + 1));
+//            logger.info("Tutorial | Next Button !! Page : " + (this.PAGE + 1));
             if (this.nextPage && this.PAGE <= this.PAGE_SIZE)      // if Double Click
                 this.PAGE++;
 

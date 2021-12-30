@@ -246,7 +246,7 @@ public class AboutDigivolution {
         } catch (InstantiationException | IllegalAccessException | ClassNotFoundException ignored) {
         }
 
-        logger.info(CardclassGetName + "생성 완료 !");
+        logger.info(CardclassGetName + "Create !");
     }
 
     public static void EvolutionCards(boolean oneStep){

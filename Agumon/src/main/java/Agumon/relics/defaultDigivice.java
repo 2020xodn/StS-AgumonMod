@@ -4,7 +4,6 @@ import Agumon.AgumonMod;
 import Agumon.actions.GetCrestAction;
 import Agumon.cards.AboutCourage;
 import Agumon.cards.AboutDigivolution;
-import Agumon.cards.attack.WarOfPast;
 import Agumon.cards.power.Digivolution;
 import Agumon.characters.Agumon;
 import Agumon.powers.burnPower;
@@ -21,9 +20,7 @@ import com.megacrit.cardcrawl.characters.AbstractPlayer;
 import com.megacrit.cardcrawl.core.Settings;
 import com.megacrit.cardcrawl.daily.mods.AbstractDailyMod;
 import com.megacrit.cardcrawl.dungeons.AbstractDungeon;
-import com.megacrit.cardcrawl.helpers.ImageMaster;
 import com.megacrit.cardcrawl.helpers.ModHelper;
-import com.megacrit.cardcrawl.helpers.controller.SteamInputHandler;
 import com.megacrit.cardcrawl.monsters.AbstractMonster;
 import com.megacrit.cardcrawl.powers.WeakPower;
 import com.megacrit.cardcrawl.rooms.MonsterRoomBoss;
@@ -31,9 +28,8 @@ import com.megacrit.cardcrawl.vfx.cardManip.ShowCardAndObtainEffect;
 
 import java.util.Iterator;
 
-import static Agumon.AgumonMod.*;
-import static Agumon.AgumonMod.WARGREYMON_SHOULDER_1;
 import static Agumon.AgumonMod.logger;
+import static Agumon.AgumonMod.*;
 import static Agumon.characters.Agumon.*;
 
 public class defaultDigivice extends CustomRelic {
@@ -184,11 +180,10 @@ public class defaultDigivice extends CustomRelic {
         if (challengethespire){
             for (AbstractDailyMod mod : ModHelper.enabledMods){
                 if (mod.name.equals("Elite Rush") ||
-                        mod.name.equals("Modded Elite Rush") ||
-                        mod.name.equals("Boss Rush") ||
-                        mod.name.equals("Modded Boss Rush") ||
-                        mod.name.equals("Sneaky Strike")){
-                    logger.info("무엇이 일어난데스?");
+                    mod.name.equals("Modded Elite Rush") ||
+                    mod.name.equals("Boss Rush") ||
+                    mod.name.equals("Modded Boss Rush") ||
+                    mod.name.equals("Sneaky Strike")){
                     isChallengethespire = true;
                     break;
                 }

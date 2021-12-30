@@ -31,13 +31,11 @@ public class BlueDragonPower extends CustomRelic implements ClickableRelic { // 
 
     @Override
     public void onRightClick() {// On right click
-        logger.info("클릭 !");
         if (!isObtained || usedThisGame || !isPlayerTurn) {
             return;
         }
 
         if (canUse()){
-            logger.info("발동 !");
             usedThisGame = true;
             flash();
             stopPulse();
