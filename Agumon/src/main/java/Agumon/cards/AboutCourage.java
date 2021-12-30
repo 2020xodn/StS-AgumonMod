@@ -19,6 +19,7 @@ public class AboutCourage {
         if (amountCourage + amount > 20){
             amount = 20 - amountCourage;
         }
+
         AbstractDungeon.player.addPower(new couragePower(AbstractDungeon.player, AbstractDungeon.player, amount));
     }
 

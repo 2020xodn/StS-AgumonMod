@@ -8,7 +8,7 @@
     "DESCRIPTION": "----------------------------Only For Agumon -----------------------------------------"
   },
   "Agumon:Agumon_Claw": {
-    "NAME": "亂抓",
+    "NAME": "锐利之爪",
     "DESCRIPTION": "造成 !D! 点伤害。"
   },
   "Agumon:Agumon_BabyFlame": {
@@ -24,7 +24,7 @@
     "DESCRIPTION": "获得 !B! 点 格挡 。"
   },
   "Agumon:Agumon_FuryClaw": {
-    "NAME": "瘋狂亂抓",
+    "NAME": "马赫猛刺",
     "DESCRIPTION": "对所有敌人造成 !D! 点伤害。"
   },
   "Agumon:Digivolution": {
@@ -38,7 +38,7 @@
     "DESCRIPTION": "----------------------------Only For Greymon -----------------------------------------"
   },
   "Agumon:Greymon_Claw": {
-    "NAME": "利爪",
+    "NAME": "暴龙之牙",
     "DESCRIPTION": "造成 !D! 点伤害。"
   },
   "Agumon:Greymon_MegaFlame": {
@@ -59,7 +59,7 @@
   },
   "Agumon:SuperDigivolution": {
     "NAME": "超进化",
-    "DESCRIPTION": "保留 。 NL 精英或 boss 战中的可以使用。失去 10 点 agumon:勇气 。暴龙兽 超 agumon:进化 成机械暴龙兽。"
+    "DESCRIPTION": "保留 。 NL 精英或 boss 战斗中可以使用。失去 10 点 agumon:勇气 。暴龙兽 超 agumon:进化 为机械暴龙兽。"
   },
 
   "Agumon:OnlyMetalGreymon": {
@@ -88,7 +88,7 @@
   },
   "Agumon:Metalgreymon_GigaDestroyer": {
     "NAME": "千兆破坏炮",
-    "DESCRIPTION": "机械暴龙兽 agumon:专用牌。造成 !D! 点伤害两次。 抽2张牌。"
+    "DESCRIPTION": "机械暴龙兽 agumon:特殊技 。造成 !D! 点伤害两次。 抽2张牌。"
   },
   "Agumon:UltimateDigivolution": {
     "NAME": "究极进化",
@@ -100,7 +100,7 @@
     "DESCRIPTION": "----------------------------Only For WarGreymon -----------------------------------------"
   },
   "Agumon:Wargreymon_Claw": {
-    "NAME": "利爪",
+    "NAME": "龙兽杀手",
     "DESCRIPTION": "造成 !D! 点伤害。"
   },
   "Agumon:Wargreymon_Defend": {
@@ -121,7 +121,7 @@
   },
   "Agumon:Wargreymon_BraveShield": {
     "NAME": "勇者之盾",
-    "DESCRIPTION": "战斗暴龙兽 agumon:专用牌 。失去3点 agumon:勇气 。在每回合结束时, 获得 !M! 点 格挡 等于有意攻击的敌人数量。"
+    "DESCRIPTION": "战斗暴龙兽 agumon:特殊技 。失去3点 agumon:勇气 。在每回合结束时, 获得 !M! 点 格挡 等于有意攻击的敌人数量。"
   },
 
   "Agumon:ForEveryAttack": {
@@ -134,47 +134,47 @@
   },
   "Agumon:BigExplosion": {
     "NAME": "大爆炸",
-    "DESCRIPTION": "对所有敌人的 agumon:烧伤 层数翻倍。对每个拥有的 agumon:烧伤 造成 !D! 的损害。",
-    "UPGRADE_DESCRIPTION": "对所有敌人的 中毒 层数变为三倍。对每个拥有的 agumon:烧伤 造成 !D! 的损害。"
+    "DESCRIPTION": "所有敌人的 agumon:烧伤 层数翻倍。引爆火焰，每层 agumon:烧伤 造成 !D! 的伤害。",
+    "UPGRADE_DESCRIPTION": "所有敌人的 agumon:烧伤 层数变为三倍。引爆火焰，每层 agumon:烧伤 造成 !D! 的伤害。"
   },
   "Agumon:BraveAttack": {
-    "NAME": "勇敢的攻击",
+    "NAME": "果敢强袭",
     "DESCRIPTION": "造成 !D! 点伤害。获得 !M! 点 agumon:勇气 。"
   },
   "Agumon:Trample": {
-    "NAME": "踩踏",
-    "DESCRIPTION": "可在 agumon:世代 成熟期以上时使用。造成 !D! 点伤害。 每个敌人获得2 agumon:勇气 。获得量 : "
+    "NAME": "践踏",
+    "DESCRIPTION": "可在 agumon:进化阶段  成熟期以上时使用。造成 !D! 点伤害。 每个敌人获得2 agumon:勇气  。获得量 : "
   },
   "Agumon:BodySlam": {
-    "NAME": "泰山壓頂 ",
-    "DESCRIPTION": "可在 agumon:世代 成熟期以上时使用。失去 2 点 生命。造成 !D! 点伤害。 NL 抽 !M! 张牌。",
-    "UPGRADE_DESCRIPTION": "可在 agumon:世代 成熟期以上时使用。失去 2 点 生命。造成 !D! 点伤害。 NL 抽 !M! 张牌。"
+    "NAME": "泰山压顶 ",
+    "DESCRIPTION": "可在 agumon:进化阶段  成熟期以上时使用。失去 2 点 生命 。造成 !D! 点伤害。 NL 抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "可在 agumon:进化阶段  成熟期以上时使用。失去 2 点 生命 。造成 !D! 点伤害。 NL 抽 !M! 张牌。"
   },
   "Agumon:Demilitarization": {
-    "NAME": "非武装化",
+    "NAME": "废除武装",
     "DESCRIPTION": "失去 3 点 agumon:勇气 。 NL 造成 !D! 点伤害。 NL 使敌人失去 !M! 点 力量 。 NL 消耗 。"
   },
   "Agumon:HeadButt": {
-    "NAME": "頭錘",
-    "DESCRIPTION": "失去 3 点 agumon:勇气 。造成 !D! 点伤害。如果一名敌人的意图是攻击，伤害乘以 !M! 。",
-    "UPGRADE_DESCRIPTION": "失去 3 点 agumon:勇气 。造成 !D! 点伤害。如果一名敌人的意图是攻击，伤害乘以 !M! 。"
+    "NAME": "钢铁头锤",
+    "DESCRIPTION": "失去 3 点 agumon:勇气 。造成 !D! 点伤害。如果该敌人的意图是攻击，伤害乘以 !M! 倍。",
+    "UPGRADE_DESCRIPTION": "失去 3 点 agumon:勇气 。造成 !D! 点伤害。如果该敌人的意图是攻击，伤害乘以 !M! 倍。"
   },
   "Agumon:FinisherBlow": {
-    "NAME": "扫尾一击 ",
-    "DESCRIPTION": "你在这个回合内每打出过一张牌，就造成一次 !D! 点伤害。损失量 : ",
+    "NAME": "终结一击",
+    "DESCRIPTION": "你在本回合内每打出过一张牌，就造成一次 !D! 点伤害。损失量 : ",
     "UPGRADE_DESCRIPTION": "Dummy Data 失去 5 点 agumon:勇气"
   },
   "Agumon:OnePointAttack": {
-    "NAME": "一点攻击",
+    "NAME": "单点突破",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 斩杀 时，抽 !M! 张牌 获得 [E] 。"
   },
   "Agumon:WarOfPast": {
-    "NAME": "过去的战争",
-    "DESCRIPTION": "从这个游戏进化而来的次数 X !D! 点伤害. 损失量 : "
+    "NAME": "旧日战争",
+    "DESCRIPTION": "取得这张卡后，每进化一次，就多造成一次 !D! 点伤害。 伤害量 : "
   },
   "Agumon:WeaknessPoint": {
     "NAME": "弱点",
-    "DESCRIPTION": "失去 3 点 agumon:勇气 。如果敌人有 虚弱 或 易伤 的状态，就会增加 !M!。"
+    "DESCRIPTION": "失去 3 点 agumon:勇气 。如果敌人有 虚弱 或 易伤 的状态，就会增加 !M! 点伤害。"
   },
 
   "Agumon:ForEveryPower": {
@@ -183,7 +183,7 @@
   },
 
   "Agumon:FriendLeather": {
-    "NAME": "朋友的皮子",
+    "NAME": "朋友的皮套",
     "DESCRIPTION": "失去 3 点 agumon:勇气 。 NL 获得 !M! 点 敏捷 。"
   },
   "Agumon:SurprisedParty": {
@@ -192,13 +192,13 @@
   },
   "Agumon:GoodRival": {
     "NAME": "好对手",
-    "DESCRIPTION": "如果您在战斗中使用20张或以上的卡，获得 7 点 agumon:勇气 和 3 点 力量 。",
-    "UPGRADE_DESCRIPTION": "如果您在战斗中使用20张或以上的卡，获得 10 点 agumon:勇气 和 6 点 力量 。"
+    "DESCRIPTION": "如果你在战斗中打出20张及以上的卡，获得 7 点 agumon:勇气 和 3 点 力量 。",
+    "UPGRADE_DESCRIPTION": "如果你在战斗中打出20张及以上的卡，获得 10 点 agumon:勇气 和 6 点 力量 。"
   },
   "Agumon:DataAbsorb": {
     "NAME": "数据吸收",
-    "DESCRIPTION": "失去 !M! 点 agumon:勇气 。每次给敌人带来伤害的时候, 回复 1 生命。",
-    "UPGRADE_DESCRIPTION": "固有。 NL 失去 !M! 点 agumon:勇气 。每次给敌人带来伤害的时候, 回复 1 生命。"
+    "DESCRIPTION": "失去 !M! 点 agumon:勇气 。每次对敌人造成伤害时, 回复 1 生命。",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 失去 !M! 点 agumon:勇气 。每次对敌人造成伤害时, 回复 1 生命。"
   },
   "Agumon:BulkUp": {
     "NAME": "增重",
@@ -228,7 +228,7 @@
     "DESCRIPTION": "抽1张牌。获得 !M! 点 agumon:勇气 。"
   },
   "Agumon:WeirdFace": {
-    "NAME": "奇怪的脸",
+    "NAME": "怪异的脸",
     "DESCRIPTION": "阻挡敌人 !M! 次攻击。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "阻挡敌人 !M! 次攻击。 NL 消耗 。"
   },
@@ -243,9 +243,9 @@
     "EXTENDED_DESCRIPTION": ["Dummy Data 如果生命小于25％，则可以使用。"]
   },
   "Agumon:CrampedWay": {
-    "NAME": "狭隘的道路",
-    "DESCRIPTION": "失去 4 点 agumon:勇气 。如果只有一个敌人，获得 !M! 点 力量和抽1张牌。",
-    "UPGRADE_DESCRIPTION": "失去 4 点 agumon:勇气 。如果只有一个敌人，获得 !M! 点 力量和抽1张牌。"
+    "NAME": "狭路相逢",
+    "DESCRIPTION": "失去 4 点 agumon:勇气 。如果只有一个敌人，获得 !M! 点 力量并抽1张牌。",
+    "UPGRADE_DESCRIPTION": "失去 4 点 agumon:勇气 。如果只有一个敌人，获得 !M! 点 力量并抽1张牌。"
   },
   "Agumon:ReadyCamping": {
     "NAME": "准备露营",
@@ -253,45 +253,45 @@
   },
   "Agumon:PhysicalShock": {
     "NAME": "物理冲击",
-    "DESCRIPTION": "失去 6 点生命。删除已授予您的所有有害影响。获得 !M! 点 agumon:勇气 。"
+    "DESCRIPTION": "自身失去 6 点生命。移除你的所有负面状态。获得 !M! 点 agumon:勇气 。"
   },
   "Agumon:Pressure": {
     "NAME": "威压",
-    "DESCRIPTION": "可在 agumon:世代 完全体以上时使用。获得3点 agumon:勇气 。给予所有敌人 !M! 层 虚弱 和 易伤 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "可在 agumon:世代 完全体以上时使用。获得3点 agumon:勇气 。给予所有敌人 !M! 层 虚弱 和 易伤 。 NL 消耗 。"
+    "DESCRIPTION": "可在 agumon:进化阶段  完全体以上时使用。获得3点 agumon:勇气 。给予所有敌人 !M! 层 虚弱 和 易伤 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "可在 agumon:进化阶段  完全体以上时使用。获得3点 agumon:勇气 。给予所有敌人 !M! 层 虚弱 和 易伤 。 NL 消耗 。"
   },
   "Agumon:PostureCorrection": {
-    "NAME": "摆姿势",
-    "DESCRIPTION": "获得 !B! 点 格挡 。如果你在这回合使用攻击牌, 抽 !M! 张牌。",
-    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。如果你在这回合使用攻击牌, 抽 !M! 张牌。"
+    "NAME": "防御态势",
+    "DESCRIPTION": "获得 !B! 点 格挡 。如果你在这回合打出过攻击牌, 抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。如果你在这回合打出过攻击牌, 抽 !M! 张牌。"
   },
   "Agumon:InheritDragon": {
-    "NAME": "继承了龙的力量的人",
-    "DESCRIPTION": "失去了一切 agumon:勇气 。这次回合，获得与失去的 agumon:勇气 相同的 力量 。 获得量 : "
+    "NAME": "龙的传人",
+    "DESCRIPTION": "失去全部 agumon:勇气 。这一回合，获得与失去的 agumon:勇气 相同的 力量 。 获得量 : "
   },
   "Agumon:Devolution": {
     "NAME": "退化",
-    "DESCRIPTION": "保留 。 NL 一 agumon:世代 退化。失去了一切 agumon:勇气 。回复20%的生命。 NL 消耗 。 恢复量 : ",
-    "UPGRADE_DESCRIPTION": "保留 。 NL 一 agumon:世代 退化。失去了一切 agumon:勇气 。回复40%的生命。 NL 消耗 。 恢复量 : "
+    "DESCRIPTION": "保留 。 NL 一 agumon:进化阶段 退化1个阶段。失去了一切 agumon:勇气 。回复20%的生命。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "保留 。 NL 一 agumon:进化阶段 退化1个阶段。失去了一切 agumon:勇气 。回复40%的生命。 NL 消耗 。"
   },
   "Agumon:DigiEgg": {
     "NAME": "数码蛋化",
-    "DESCRIPTION": "可在 agumon:世代 完全体以上时使用。退化直至成长期，回复复20％的生命。 这次战斗中遇到的敌人,永久获得 !M! 点最大生命。 增加量 : "
+    "DESCRIPTION": "可在 agumon:进化阶段  完全体以上时使用。退化至成长期，回复20％的生命。 本场战斗中每遇到一个敌人,永久增加 !M! 点最大生命。 增加量 : "
   },
   "Agumon:RewardingBreak": {
-    "NAME": "有意义的休息",
-    "DESCRIPTION": "回复勇气数值的50%的生命，抽1张牌。 消耗 NL 恢复量 : ",
-    "UPGRADE_DESCRIPTION": "回复勇气数值的100%的生命，抽1张牌。 消耗 NL 恢复量 : "
+    "NAME": "充分休息",
+    "DESCRIPTION": "回复 agumon:勇气 值的50%的生命，抽1张牌。 消耗 NL 恢复量 : ",
+    "UPGRADE_DESCRIPTION": "回复 agumon:勇气 值的100%的生命，抽1张牌。 消耗 NL 恢复量 : "
   },
   "Agumon:Crisis": {
     "NAME": "危机",
-    "DESCRIPTION": "自己的生命比敌人的生命少时，回复其差异的10%左右。 NL 消耗 恢复量 : ",
-    "UPGRADE_DESCRIPTION": "固有。自己的生命比敌人的生命少时，回复其差异的10%左右。 NL 消耗 恢复量 : "
+    "DESCRIPTION": "自己的生命比敌人的生命少时，回复其差异10%的生命。 NL 消耗 恢复量 : ",
+    "UPGRADE_DESCRIPTION": "固有 。自己的生命比敌人的生命少时，回复其差异10%的生命。 NL 消耗 恢复量 : "
   },
   "Agumon:Telecommunication": {
     "NAME": "远程通信",
-    "DESCRIPTION": "将抽牌堆中的一张牌放入你的手牌。这次回合, 其牌耗能会减少1。",
-    "UPGRADE_DESCRIPTION": "将抽牌堆中的二张牌放入你的手牌。这次回合, 其牌耗能会减少1。",
+    "DESCRIPTION": "将抽牌堆中的一张牌放入你的手牌。这回合, 该牌耗能减1。",
+    "UPGRADE_DESCRIPTION": "将抽牌堆中的二张牌放入你的手牌。这回合, 该牌耗能减1。",
     "EXTENDED_DESCRIPTION": ["选择一张要导入的卡。"]
   },
   "Agumon:HelpingHand": {
@@ -301,18 +301,18 @@
   },
   "Agumon:FrontalDefend": {
     "NAME": "正面防御",
-    "DESCRIPTION": "可在 agumon:世代 成熟期以上时使用。获得 !B! 点 格挡 。如果一名敌人的意图是攻击，获得 !M! 点 agumon:勇气 。"
+    "DESCRIPTION": "可在 agumon:进化阶段  成熟期以上时使用。获得 !B! 点 格挡 。如果该敌人的意图是攻击，获得 !M! 点 agumon:勇气 。"
   },
   "Agumon:DataScan": {
     "NAME": "数据扫描",
-    "DESCRIPTION": "消耗 一张机手牌。 获得相当于那张卡费用3倍的 agumon:勇气 。",
-    "UPGRADE_DESCRIPTION": "消耗 一张机手牌。 获得相当于那张卡费用5倍的 agumon:勇气 。",
+    "DESCRIPTION": "消耗 一张手牌。 获得相当于那张卡费用3倍的 agumon:勇气 。",
+    "UPGRADE_DESCRIPTION": "消耗 一张手牌。 获得相当于那张卡费用5倍的 agumon:勇气 。",
     "EXTENDED_DESCRIPTION": ["选择一张要消耗的牌"]
   },
   "Agumon:IntotheStorm": {
-    "NAME": "进入暴风雨",
-    "DESCRIPTION": "不能被打出 。 NL 如果这张牌从你的手牌中被丢弃， 获得3点勇气和回复2点生命。",
-    "EXTENDED_DESCRIPTION": ["这牌不能使用"]
+    "NAME": "进入暴风",
+    "DESCRIPTION": "不能被打出 。 NL 如果这张牌从你的手牌中被丢弃， 获得3点 agumon:勇气 和回复2点生命。",
+    "EXTENDED_DESCRIPTION": ["这牌不能打出"]
   },
   "Agumon:Chase": {
     "NAME": "追击",
@@ -322,6 +322,6 @@
   "Agumon:LastHope": {
     "NAME": "最后的希望",
     "DESCRIPTION": "只有当抽牌堆中没有牌时才能打出。获得 !M! 点 agumon:勇气 。",
-    "UPGRADE_DESCRIPTION": "仍然有希望"
+    "UPGRADE_DESCRIPTION": "仍有希望"
   }
 }

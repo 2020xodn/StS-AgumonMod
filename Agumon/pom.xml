@@ -4,8 +4,8 @@
     <groupId>Agumon</groupId>
     <artifactId>Agumon</artifactId> <!--Keep a note of this one: this is the ID used in the "auto add cards" method-->
     <name>Agumon</name>
-    <version>0.6.1</version>
-    <description>Agumon Mod Test (2021.04.18)
+    <version>0.7.2</version>
+    <description>Agumon Mod Test (2021.07.05)
 This mod supports Korean, English, Japanese, Simplified Chinese.
 The translation may be wrong.
 If something is unnatural, I would appreciate it if you let me know in the comments.
@@ -13,8 +13,10 @@ This mod is based on Digimon Adventure: (2020).
 If you haven't seen it, this mod could be a spoiler.
 ex) Card image, Event
 
-- Special Thanks -
-Japanese Localization help : Falcon
+※ Special Thanks
+- Localization -
+Japanese help : Falcon
+Simplified Chinese help : Watchman
     </description>
 
     <properties>

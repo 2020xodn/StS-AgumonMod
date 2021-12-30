@@ -69,7 +69,6 @@ public class SuperDigivolution extends AbstractDynamicCard {
         return false;
     }
 
-
     @Override
     public void use(AbstractPlayer p, AbstractMonster m) {
         Agumon.EVOLUTION_STAGE = 2;
